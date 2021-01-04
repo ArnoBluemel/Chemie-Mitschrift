@@ -50,10 +50,6 @@ module.exports = {
         link: "/chemie/"
       },
       {
-        text: "Guide",
-        link: "/guide/",
-      },
-      {
         text: "Config",
         link: "/config/",
       },
