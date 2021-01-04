@@ -1,4 +1,12 @@
 const { description } = require("../../package");
+const getConfig = require("vuepress-bar");
+
+const { sidebar } = getConfig();
+
+const indexPageIndex = sidebar.indexOf("index");
+if (indexPageIndex >= 0) {
+  sidebar.splice(indexPageIndex, 1);
+}
 
 module.exports = {
   title: "Chemie Mitschrift",
@@ -50,19 +58,9 @@ module.exports = {
         link: "https://v1.vuepress.vuejs.org",
       },
     ],
-    sidebar: {
-      "/guide/": [
-        {
-          title: "Guide",
-          collapsable: false,
-          children: ["", "using-vue"],
-        },
-      ],
-    },
+    sidebar: sidebar,
+    sidebarDepth: 4,
   },
 
-  /**
-   * Apply plugins，ref：https://v1.vuepress.vuejs.org/zh/plugin/
-   */
   plugins: ["@vuepress/plugin-back-to-top", "@vuepress/plugin-medium-zoom"],
 };
