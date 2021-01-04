@@ -5,3 +5,5 @@
 ### tinytest
 
 #### supertinytest
+
+<demo-component/>
