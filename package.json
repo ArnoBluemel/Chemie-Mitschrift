@@ -1,0 +1,20 @@
+{
+  "name": "Chemie-Mitschrift",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "authors": {
+    "name": "",
+    "email": ""
+  },
+  "repository": "https://github.com/ArnoBluemel/Chemie-Mitschrift/Chemie-Mitschrift",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src",
+    "deploy": "vuepress build src && node utils/publish.js"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
