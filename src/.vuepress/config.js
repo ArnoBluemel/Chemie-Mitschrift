@@ -47,7 +47,7 @@ module.exports = {
     nav: [
       {
         text: "Chemie",
-        link: "/chemie/"
+        link: "/chemie/",
       },
       {
         text: "Config",
@@ -62,12 +62,9 @@ module.exports = {
     sidebarDepth: 4,
   },
 
-  plugins: [
-    "@vuepress/plugin-back-to-top",
-    "@vuepress/plugin-medium-zoom",
-    "@maginapp/vuepress-plugin-katex",
-    {
+  plugins: {
+    "@maginapp/vuepress-plugin-katex": {
       delimiters: "dollars",
     },
-  ],
+  },
 };
