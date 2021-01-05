@@ -46,8 +46,8 @@ module.exports = {
     searchMaxSuggestions: 10,
     nav: [
       {
-        text: "Guide",
-        link: "/guide/",
+        text: "Chemie",
+        link: "/chemie/"
       },
       {
         text: "Config",

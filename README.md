@@ -1,5 +1,9 @@
 # Chemie-Mitschrift
 
+GitHub Pages: https://arnobluemel.github.io/Chemie-Mitschrift
+
+Just a few .md files to help me and my friends with a chemistry exam.
+
 ## Search Tags
 
 The search searches through titles and tags.
@@ -41,4 +45,25 @@ npm run dev
 
 ```
 npm run deploy
+```
+
+### File structure
+
+```
+Chemie-Mitschrift
+|
++- dev_resources
+|    Contains stuff to remind me what I was thinking at some point in the past.
++- dist
+|    HTML stuff, apparently.
++- node_modules
+|    Nope.
++- utils
+|    Stuff I probably shouldn't touch myself.
++- src
+   | The juicy stuff.
+   +- .vuepress
+   |    Code stuff.
+   +- chemie
+        The *really* juicy stuff.
 ```
