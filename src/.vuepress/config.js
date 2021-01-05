@@ -62,5 +62,12 @@ module.exports = {
     sidebarDepth: 4,
   },
 
-  plugins: ["@vuepress/plugin-back-to-top", "@vuepress/plugin-medium-zoom"],
+  plugins: [
+    "@vuepress/plugin-back-to-top",
+    "@vuepress/plugin-medium-zoom",
+    "@maginapp/vuepress-plugin-katex",
+    {
+      delimiters: "dollars",
+    },
+  ],
 };
