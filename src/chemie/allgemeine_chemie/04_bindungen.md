@@ -4,7 +4,7 @@
 
 Kovalente Bindungen (Moleküle) bestehen aus zwei oder mehr Nichtmetallen, die bei chemischen und physikalischen Prozessen als Einheit fungieren. Die Eigenschaften (Schmelz- und Siedepunkt, Reaktivität, ...) lassen sich dabei nicht aus den Bestandteilen ableiten, und selbst ähnlich aussehende Moleküle können drastisch unterschiedliche Eigenschaften besitzen.
 
-<figure style="text-align: center; font-style: italic;">
+<figure>
   <img src="./media/wasserstoff.png" width="30%"/>
   <figcaption>Molekularer Wasserstoff </br> Die H-Atome teilen sich ihre Valenzelektronen, dargestellt als Strich in der Mitte.</figcaption>
 </figure>
@@ -17,7 +17,7 @@ Die Valence-Bond-Theory stellt sich kovalente Bindungen als Überlappungen von A
 
 Die Benennung der Molekülorbitale erfolgt analog zu den Atomorbitalen (s, p, d, f, ...), allerdings mit griechischen Kleinbuchstaben (also $\sigma$, $\pi$, $\delta$, $\phi$, ...). Bei der Verbindung zweier Atomorbitale entstehen je ein bindendes und ein anti- oder nichtbindendes Molekülorbital ($\sigma$ und $\sigma$\*). Das bindende Orbital liegt dabei in seiner Energie niedriger als die ursprünglichen Atomorbitale, ist also energetisch günstiger, während das antibindende Orbital höher liegt. Je näher die Energieniveaus der Atomorbitale beieinander liegen, desto besser lassen sie sich kombinieren, und desto größer ist die Differenz zwischen bindendem und antibindendem Orbital. Wie ein Atomorbital kann auch ein Molekülorbital nur zwei Elektronen aufnehmen. Auch hier gelten sowohl Hundsche Regel als auch Pauli-Prinzip.
 
-<figure style="text-align: center; font-style: italic;">
+<figure>
   <a title="CC BY-SA 3.0 &lt;https://creativecommons.org/licenses/by-sa/3.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Wasserstoff-Orbitale.svg"><img width="512" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Wasserstoff-Orbitale.svg"></a>
   <figcaption>Molekülorbitale von H<sub>2</sub></figcaption>
 </figure>
@@ -30,21 +30,21 @@ $$ BO = \frac { (e^-_\sigma - e^-_{ \sigma* }) } { 2 } $$
 
 Da in Edelgasen alle Orbitale voll besetzt sind, wären auch alle Molekülorbitale, einschließlich der antibindenden, voll. Damit wäre die Bindungsordnung 0, die Bindung also höchst instabil.
 
-<figure style="text-align: center; font-style: italic;">
+<figure>
   <a title="Phrood~commonswiki, CC BY-SA 3.0 &lt;http://creativecommons.org/licenses/by-sa/3.0/&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Helium-Orbitale.svg"><img width="512" alt="Helium-Orbitale" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Helium-Orbitale.svg/512px-Helium-Orbitale.svg.png"></a>
   <figcaption>Molekülorbitale von He<sub>2</sub> </br> Sowohl bindende als auch antibindende Orbitale sind voll besetzt, das Molekül ist nicht stabil.</figcaption>
 </figure>
 
 ##### Beispiel: Molekularer Sauerstoff (O<sub>2</sub>)
 
-<figure style="text-align: center; font-style: italic;">
+<figure>
   <a title="Muskid, CC BY-SA 3.0 &lt;https://creativecommons.org/licenses/by-sa/3.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:MO_Triplett_O2.svg"><img width="512" alt="MO Triplett O2" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/MO_Triplett_O2.svg/512px-MO_Triplett_O2.svg.png"></a>
   <figcaption>Bildung der Molekülorbitale am Beispiel von Sauerstoff</figcaption>
 </figure>
 
 $$ BO = \frac { (8 - 4) } { 2 } = 2 $$
 
-<figure style="text-align: center; font-style: italic;">
+<figure>
   <img src="./media/sauerstoff.png" width="30%"/>
   <figcaption>O<sub>2</sub>-Molekül </br> Die Elektronen einer der Bindungen (π*-Bindung) liegen in antibindenden Orbitalen. O<sub>2</sub> ist ein Diradikal.</figcaption>
 </figure>
@@ -100,19 +100,19 @@ Elektronenpaare nehmen aufgrund ihrer gleichen negativen elektrischen Ladung imm
   <tbody>
     <tr>
       <td>
-        <figure style="text-align: center; font-style: italic;">
+        <figure>
           <img src="./media/wasser.png"/>
           <figcaption>Wasser </br> Bindungswinkel: 104,5°</figcaption>
         </figure>
       </td>
       <td>
-        <figure style="text-align: center; font-style: italic;">
+        <figure>
           <img src="./media/ammoniak.png"/>
           <figcaption>Ammoniak </br> Bindungswinkel: 109°</figcaption>
         </figure>
       </td>
       <td>
-        <figure style="text-align: center; font-style: italic;">
+        <figure>
           <img src="./media/methan.png"/>
           <figcaption>Methan </br> Bindungswinkel: 109,5°</figcaption>
         </figure>
@@ -125,14 +125,14 @@ Elektronenpaare nehmen aufgrund ihrer gleichen negativen elektrischen Ladung imm
 
 Wenn sich zwei Bindungspartner in ihrer Elektronegativität unterscheiden, zieht einer der beiden die bindenden Elektronen stärker zu sich und bekommt dadurch eine negative Partialladung.
 
-<figure style="text-align: center; font-style: italic;">
+<figure>
   <img src="./media/wasser_partialladungen.png" width="30%"/>
   <figcaption>H<sub>2</sub>O mit seinen Partialladungen</figcaption>
 </figure>
 
 Damit auch tatsächlich ein polares Molekül vorliegt, muss es allerdings einen asymmetrischen Bau haben, da sich die Partialladungen sonst ausgleichen.
 
-<figure style="text-align: center; font-style: italic;">
+<figure>
   <img src="./media/kohlendioxid_partialladungen.png" width="30%"/>
   <figcaption>CO<sub>2</sub> mit seinen Partialladungen</figcaption>
 </figure>
@@ -151,7 +151,7 @@ $$ F_C = \frac { Q_1 * Q_2 } { 4 * \pi * \epsilon_0 * \epsilon_r * r^2 } $$
 
 Da es hier keine Moleküle gibt, kann eine Summenformel auch nicht die Anzahl der Ionen, aus denen ein Molekül besteht angeben. Stattdessen steht die Summenformel eines Salzes für das kleinste ganzzahlige Verhältnis von Anion und Kation.
 
-<figure style="text-align: center; font-style: italic;">
+<figure>
   <a title="Goran tek-en, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:NaCl_polyhedra.svg"><img width="512" alt="NaCl polyhedra" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/NaCl_polyhedra.svg/512px-NaCl_polyhedra.svg.png"></a>
   <figcaption>Gitterstruktur von NaCl</figcaption>
 </figure>
@@ -193,7 +193,7 @@ Das Elektronengasmodell ist eine vereinfachte Darstellung metallischer Bindungen
 
 Unter Zuhilfenahme der Molekülorbital-Theorie kann man sich vorstellen, dass die vielen Metall-Atome unzählige gemeinsame Molekülorbitale ausbilden. Dadurch entstehen zwei "Bänder": das Valenzband, auf dem die bindenden Elektronen in bindenden Orbitalen liegen, und das Leitungsband aus den antibindenden Orbitalen, auf dem sich Elektronen frei bewegen können. Diese beiden Bänder bilden gemeinsam das Energieband. In elektrischen Leitern liegen Valenz- und Leitungsband nahe beieinander. In Isolatoren hingegen besteht zwischen ihnen eine große Lücke. In Halbleitern ist die Lücke klein genug, dass sie, zum Beispiel durch Zuführen von Wärmeenergie, von den Elektronen überwunden werden kann.
 
-<figure style="text-align: center; font-style: italic;">
+<figure>
   <a title="Honina at de.wikipedia
    Later version(s) were uploaded by Zahnstein at de.wikipedia., CC BY-SA 3.0 &lt;http://creativecommons.org/licenses/by-sa/3.0/&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:B%C3%A4ndermodell.PNG"><img width="128" alt="Bändermodell" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/B%C3%A4ndermodell.PNG"></a>
   <figcaption>Energiebänder bei Isolatoren, Halbleitern und Leitern</figcaption>
@@ -203,7 +203,7 @@ Unter Zuhilfenahme der Molekülorbital-Theorie kann man sich vorstellen, dass di
 
 Bei koordinativen Bindungen liefert ein Partner (der Ligand) beide Bindungselektronen, die in ein leeres Orbital des zweiten Atoms aufgenommen werden.
 
-<figure style="text-align: center; font-style: italic;">
+<figure>
   <a title="No machine-readable author provided. Smokefoot assumed (based on copyright claims)., Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:CoA6Cl3.png"><img width="200" alt="CoA6Cl3" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/CoA6Cl3.png"></a>
   <figcaption>Hexaammincobalt(III)-chlorid</figcaption>
 </figure>
@@ -216,7 +216,7 @@ Zwischen Molekülen kann es zu Wechselwirkungen kommen, die in der Regel um mehr
 
   Die Partialladungen polarer Moleküle interagieren (= permanenter Dipol).
 
-<figure style="text-align: center; font-style: italic;">
+<figure>
   <a title="Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Dipole-dipole-interaction-in-HCl-2D.png"><img width="200" alt="CoA6Cl3" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Dipole-dipole-interaction-in-HCl-2D.png"></a>
   <figcaption>Wechselwirkungen in Salzsäure</figcaption>
 </figure>
@@ -225,7 +225,7 @@ Zwischen Molekülen kann es zu Wechselwirkungen kommen, die in der Regel um mehr
 
   Ein stark polares Molekül kann Ladungen in einem unpolaren Molekül verschieben (= induzierter Dipol).
 
-<figure style="text-align: center; font-style: italic;">
+<figure>
   <img src="./media/induzierter_dipol.png" width="30%"/>
   <figcaption>Induzierter Dipol bei Brom</figcaption>
 </figure>
@@ -237,7 +237,7 @@ Zwischen Molekülen kann es zu Wechselwirkungen kommen, die in der Regel um mehr
 Eine Sonderform der Dipol-Dipol-Wechselwirkungen sind Wasserstoffbrückenbindungen, bei denen ein Wasserstoff eines polaren Moleküls mit einem freien Elektronenpaar eines anderen interagiert. Diese sind aufgrund der stark positiven Ladung des Wasserstoffs besonders stark und spielen eine große Rolle in biologischen Systemen (DNA, RNA, Proteine).
 Ein Nebeneffekt von Wasserstoffbrückenbindungen sind hydrophobe Wechselwirkungen, die darauf beruhen, dass Wasser und andere hydrophile Stoffe Moleküle meiden, mit denen sie keine Wasserstoffbrücken bilden können.
 
-<figure style="text-align: center; font-style: italic;">
+<figure>
   <a title="Roland.chem, CC0, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:H-Bruecke-delta.svg"><img width="128" alt="H-Bruecke-delta" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/H-Bruecke-delta.svg/128px-H-Bruecke-delta.svg.png"></a>
   <figcaption>Wasserstoffbrückenbindungen zwischen Wassermolekülen</figcaption>
 </figure>
