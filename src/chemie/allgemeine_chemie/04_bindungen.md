@@ -26,7 +26,7 @@ Die Benennung der Molekülorbitale erfolgt analog zu den Atomorbitalen (s, p, d,
 
 Die Bindungsordnung gibt die Anzahl der effektiven Bindungen zwischen zwei Atomen an. Sie entspricht der Hälfte der Differenz der Anzahl an Elektronen in bindenden bzw. antibindenden Orbitalen.
 
-$$ BO = \frac { (e^-_\sigma - e^-_{ \sigma* }) } { 2 } $$
+<Formulae> BO = \frac { (e^-_\sigma - e^-_{ \sigma* }) } { 2 } </Formulae>
 
 Da in Edelgasen alle Orbitale voll besetzt sind, wären auch alle Molekülorbitale, einschließlich der antibindenden, voll. Damit wäre die Bindungsordnung 0, die Bindung also höchst instabil.
 
@@ -42,7 +42,7 @@ Da in Edelgasen alle Orbitale voll besetzt sind, wären auch alle Molekülorbita
   <figcaption>Bildung der Molekülorbitale am Beispiel von Sauerstoff</figcaption>
 </figure>
 
-$$ BO = \frac { (8 - 4) } { 2 } = 2 $$
+<Formulae> BO = \frac { (8 - 4) } { 2 } = 2 </Formulae>
 
 <figure>
   <img src="./media/sauerstoff.png" width="30%"/>
@@ -147,7 +147,7 @@ $\qquad \Delta EN > 2 ⇒ Ionenbindung$
 
 Ionenbindungen (Salze) bestehen aus Stoffen mit großer Elektronegativitätsdifferenz (z.B. Metall und Nichtmetall). Wenn die Differenz größer als 2 ist, zieht der elektronegativere Partner die Bindungselektronen so stark an sich, dass er sie dem anderen komplett entreißt und so selbst negativ geladen wird, es entstehen Ionen (Anion (-) und Kation (+)). Ionen bilden deswegen keine Moleküle. Stattdessen werden sie durch Coulomb-Kräfte in einem Ionengitter zusammengehalten.
 
-$$ F_C = \frac { Q_1 * Q_2 } { 4 * \pi * \epsilon_0 * \epsilon_r * r^2 } $$
+<Formulae> F_C = \frac { Q_1 * Q_2 } { 4 * \pi * \epsilon_0 * \epsilon_r * r^2 } </Formulae>
 
 Da es hier keine Moleküle gibt, kann eine Summenformel auch nicht die Anzahl der Ionen, aus denen ein Molekül besteht angeben. Stattdessen steht die Summenformel eines Salzes für das kleinste ganzzahlige Verhältnis von Anion und Kation.
 
@@ -160,7 +160,7 @@ Da es hier keine Moleküle gibt, kann eine Summenformel auch nicht die Anzahl de
 
 Die Gitterenergie ist die Energie, die freiwürde, wenn man aus den gasförmigen Ionen das Ionengitter bildet. Sie steigt mit der Ladung der Ionen und sinkt mit zunehmendem Ionenradius.
 
-$$ Na^+(g) \quad + \quad Cl^-(g) \quad \underset{788 \  kJ/mol}{\stackrel{-788 \  kJ/mol}{\rightleftharpoons}} \quad NaCl(s) $$
+<Formulae> Na^+(g) \quad + \quad Cl^-(g) \quad \underset{788 \  kJ/mol}{\stackrel{-788 \  kJ/mol}{\rightleftharpoons}} \quad NaCl(s) </Formulae>
 
 ### Nomenklatur von Ionen
 
