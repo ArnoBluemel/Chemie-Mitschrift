@@ -137,4 +137,34 @@ Im Gleichgewicht gilt $\Delta G = 0$, daher kann die obige Gleichung umgeformt w
 
 <Formulae> \Delta G° = - R * T * ln(K) </Formulae>
 
-Die freie Standardenthalpie $\Delta G°$ ist eine reaktionsspezifische Konstante. Wenn diese bekannt ist, kann man daraus die Gleichgewichtskonstante bei einer gegebenen Temperatur berechnen.  
+Die freie Standardenthalpie $\Delta G°$ ist eine reaktionsspezifische Konstante. Wenn diese bekannt ist, kann man daraus die Gleichgewichtskonstante bei einer gegebenen Temperatur berechnen.
+
+### Gleichgewicht in Lösungen
+
+Lösungen sind homogene Mischungen aus mindestens zwei Stoffen. Wenn ein Salz in einem polaren Lösungsmittel gelöst wird, lagern sich die dipolaren Lösungsmittelmoleküle an die geladenen Ionen an und drängen sie aus ihrer Gitterstruktur. Bei diesem Vorgang wird Energie frei bzw. verbraucht. Das Lösen eines Stoffes in einem Lösungsmittel nennt man Solvatation (Hydratation beim Lösungsmittel Wasser).
+
+<Formulae> Lösungsenthalpie = Gitterenthalpie + Solvatationsenthalpie </Formulae>
+
+NaCl hat eine Gitterenthalpie von $+778 \frac {kJ} {mol}$ und eine Solvatationsenthalpie von $-774 \frac {kJ} {mol}$. Daraus ergibt sich eine Lösungsenthalpie von $+4 \frac {kJ} {mol}$, es findet also eine leichte Abkühlung statt, weil Energie hineingesteckt werden muss.
+
+Stoffe, die in Wasser zu Ionen dissoziieren, bezeichnet man als Elektrolyte. Starke Elektrolyte dissoziieren (fast) vollständig, während sich schwache Elektrolyte nicht gänzlich lösen. Den Anteil des Stoffes, der gelöst wird, bezeichnet man mit dem Dissoziationsgrad $\alpha$, er ist für starke Elektrolyte ~1.
+
+Zwischen der dissoziierten und der undissoziierten Form entsteht ein Gleichgewicht, die Solvatation kann also als Gleichgewichtsreaktion betrachtet werden.
+
+<Formulae> AB \; \rightleftharpoons \; A^+ \; + \; B^- </Formulae>
+
+Damit gilt für die Gleichgewichtskonstante:
+
+<Formulae> K = \frac {c_{A^+} * c_{B^-}} {c_{AB}} </Formulae>
+
+Daraus lässt sich das Löslichkeitsprodukt $K_L$ definieren:
+
+<Formulae> K_L = K * c_{AB} = c_{A^+} * c_{B^-} </Formulae>
+
+Da $AB$ in gleichem Maße in $A^+$ wie auch in $B^-$ dissoziiert, gilt:
+
+<Formulae> K_L = {c_{A^+}}^2 => c_{A^+} = \sqrt {K_L}</Formulae>
+
+Löslichkeit:
+
+<Formulae> L = \sqrt [a + b] {\frac {KL} {a ^ a * b ^ b}} </Formulae>
