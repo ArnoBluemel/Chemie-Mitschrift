@@ -26,11 +26,45 @@ Elementarladung: $e = 1,602 * 10^{-19} \; C$
 |Proton|$1,673 * 10^{-27} kg$|$+e$|
 |Neutron|$1,675 * 10^{-27} kg$|$0 \; C$|
 
-</br>
-Ångström: $[Å] = 100 \; pm$ (pm = Pikometer = $10^{-12} \; m$)
+### Ångström
+
+$1Å = 100 \; pm$ (pm = Pikometer = $10^{-12} \; m$)
 
 Atom: ∅ $= 0,4 \; Å$ bis $2 \; Å$ </br>
 Atomkern: ∅ $= 10^{-5} \; Å$
+
+### Mol
+
+$1mol$ ist definiert als die Stoffmenge (= Zahl der Teilchen), die in $12g$ <sup>12</sup>C enthalten ist. Dadurch ist es auch etwa gleich der Stoffmenge von 1g Wasserstoff und ist gleich der Avogadro-Zahl.
+
+<figure>
+    <Formulae> 1mol = 6,02214 * 10^{23} </Formulae>
+    <figcaption>Avogadro-Zahl</figcaption>
+</figure>
+
+<figure>
+    <Formulae> N_A = 6,02214 * 10^{23} mol^{-1} </Formulae>
+    <figcaption>Avogadro-Konstante</figcaption>
+</figure>
+
+### Atommasse
+
+Die Masse von Atomen wird normalerweise in atomaren Masseneinheiten angegeben, die als ein Zwölftel der Masse eines einzelnen <sup>12</sup>C-Atoms definiert ist. Deswegen entspricht sie knapp der Masse eines Nukleons, wodurch die Masse eines Atoms immer (fast) exakt ein ganzzahliges Vielfaches der atomaren Masseneinheit ist.
+
+<Formulae> 1u = 1,6605 * 10^{-27} kg \\ 1u = \frac {1g} {Avogadro-Zahl} \\ 1kg = 6,02214 * 10^{26} u \\ 1g = 6,02214 * 10^{23} u </Formulae>
+
+#### Molare Masse
+
+Die molare Masse eines Stoffes ist die Masse von einem Mol des betreffenden Stoffes.
+
+<Formulae> [M] = [Atommasse] * N_A = 1u * N_A = 1 \frac {g} {Avogadro-Zahl} * \frac {Avogadro-Zahl} {mol} = 1 \frac {g} {mol} </Formulae>
+
+Der Betrag der molaren Masse in $\frac {g} {mol}$ entspricht dem der Atommasse in $u$.
+
+Bsp.: </br>
+molare Masse von <sup>12</sup>C: $12u$ </br>
+=> molare Masse von <sup>12</sup>C = $12 \frac {g} {mol}$ </br>
+=> Masse von 1mol <sup>12</sup>C = $12 g$ 
 
 ## Elektromagnetische Strahlung
 
