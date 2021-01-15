@@ -46,4 +46,4 @@ Die Elektronegativität (EN) beschreibt die Tendenz, die Elektronen einer Bindun
 
 ## Metallcharakter
 
-Metalle haben gewisse Eigenschaften (elektrische Leitfähigkeit, Verformbarkeit, metallisch-grauer Glanz), die im Periodensystem von rechts oben nach links unten zunehmen. Darum sind auch rechts oben die Nichtmetalle und links unten die Metalle, mit den Halbmetallen dazwischen.
+Metalle haben gewisse typische Eigenschaften (elektrische Leitfähigkeit, Verformbarkeit, metallisch-grauer Glanz), die im Periodensystem von rechts oben nach links unten zunehmen. Darum sind auch rechts oben die Nichtmetalle und links unten die Metalle, mit den Halbmetallen dazwischen.
