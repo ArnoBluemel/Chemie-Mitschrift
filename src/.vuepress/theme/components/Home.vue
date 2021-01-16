@@ -84,6 +84,15 @@ export default {
       let videoElement = document.getElementById("player2");
       videoElement.style.opacity = 1;
       videoElement.src += "?autoplay=1";
+      if (videoElement.requestFullscreen) {
+        videoElement.requestFullscreen();
+      } else if (videoElement.mozRequestFullScreen) {
+        videoElement.mozRequestFullScreen();
+      } else if (videoElement.webkitRequestFullscreen) {
+        videoElement.webkitRequestFullscreen();
+      } else if (videoElement.msRequestFullscreen) {
+        videoElement.msRequestFullscreen();
+      }
     },
   },
 };
