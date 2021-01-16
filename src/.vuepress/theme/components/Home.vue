@@ -34,7 +34,11 @@
       </p>
 
       <p class="action">
-        <a class="nav-link action-button" style="border: 0" @click="playVideo">
+        <a
+          class="nav-link action-button"
+          style="border: 0; cursor: pointer"
+          @click="playVideo"
+        >
           Organische Chemie
         </a>
       </p>
@@ -105,7 +109,7 @@ export default {
 
     iframe {
       position: absolute;
-      top: 10px;
+      top: 0px;
       left: 0px;
       right: 0px;
       margin: 0px auto;
