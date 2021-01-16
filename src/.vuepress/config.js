@@ -9,7 +9,7 @@ if (indexPageIndex >= 0) {
 }
 
 module.exports = {
-  title: "Chemie Mitschrift",
+  title: "Chemie-Mitschrift",
   description: description,
 
   base: "/Chemie-Mitschrift/",
@@ -46,12 +46,12 @@ module.exports = {
     searchMaxSuggestions: 10,
     nav: [
       {
-        text: "Chemie",
-        link: "/chemie/",
+        text: "Allgemeine Chemie",
+        link: "/chemie/allgemeine_chemie/01_chemie",
       },
       {
-        text: "Config",
-        link: "/config/",
+        text: "Organische Chemie",
+        link: "/chemie/organische_chemie/",
       },
       {
         text: "VuePress",

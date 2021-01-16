@@ -95,7 +95,6 @@ export default {
       } else if (videoElement.msRequestFullscreen) {
         videoElement.msRequestFullscreen();
       }
-      videoElement.src += "?autoplay=1";
     },
   },
 };
