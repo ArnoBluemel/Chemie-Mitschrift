@@ -12,7 +12,7 @@
 
       <iframe
         id="player2"
-        style="opacity: 0"
+        style="opacity: 1; z-index: -1"
         width="560"
         height="315"
         src="https://www.youtube.com/embed/dQw4w9WgXcQ"
@@ -39,7 +39,7 @@
           style="border: 0; cursor: pointer"
           @click="playVideo"
         >
-          Organische Chemie
+          Organische Chemie →
         </a>
       </p>
     </header>
@@ -83,7 +83,9 @@ export default {
     playVideo() {
       let videoElement = document.getElementById("player2");
       videoElement.style.opacity = 1;
-      videoElement.src += "?autoplay=1";
+      //videoElement.style.zIndex = 0;
+      if (!videoElement.src.endsWith("?autoplay=1"))
+        videoElement.src += "?autoplay=1";
       if (videoElement.requestFullscreen) {
         videoElement.requestFullscreen();
       } else if (videoElement.mozRequestFullScreen) {
