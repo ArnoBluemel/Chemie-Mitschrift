@@ -12,7 +12,11 @@
 
       <iframe
         id="player2"
+<<<<<<< HEAD
         style="opacity: 1; z-index: -1"
+=======
+        style="opacity: 0"
+>>>>>>> 0539ac73ef7d76ffe88f5ad1b8d581f3abd3311a
         width="560"
         height="315"
         src="https://www.youtube.com/embed/dQw4w9WgXcQ"
@@ -39,7 +43,11 @@
           style="border: 0; cursor: pointer"
           @click="playVideo"
         >
+<<<<<<< HEAD
           Organische Chemie →
+=======
+          Organische Chemie
+>>>>>>> 0539ac73ef7d76ffe88f5ad1b8d581f3abd3311a
         </a>
       </p>
     </header>
@@ -83,6 +91,7 @@ export default {
     playVideo() {
       let videoElement = document.getElementById("player2");
       videoElement.style.opacity = 1;
+<<<<<<< HEAD
       //videoElement.style.zIndex = 0;
       if (!videoElement.src.endsWith("?autoplay=1"))
         videoElement.src += "?autoplay=1";
@@ -95,6 +104,9 @@ export default {
       } else if (videoElement.msRequestFullscreen) {
         videoElement.msRequestFullscreen();
       }
+=======
+      videoElement.src += "?autoplay=1";
+>>>>>>> 0539ac73ef7d76ffe88f5ad1b8d581f3abd3311a
     },
   },
 };
@@ -244,4 +256,8 @@ export default {
     }
   }
 }
+<<<<<<< HEAD
 </style>
+=======
+</style>
+>>>>>>> 0539ac73ef7d76ffe88f5ad1b8d581f3abd3311a
