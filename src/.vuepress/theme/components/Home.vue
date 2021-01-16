@@ -10,6 +10,17 @@
         :alt="data.heroAlt || 'hero'"
       />
 
+      <iframe
+        id="player2"
+        style="opacity: 0"
+        width="560"
+        height="315"
+        src="https://www.youtube.com/embed/dQw4w9WgXcQ"
+        frameborder="0"
+        allow="autoplay; encrypted-media"
+        allowfullscreen
+      ></iframe>
+
       <h1 v-if="data.heroText !== null" id="main-title">
         {{ data.heroText || $title || "Hello" }}
       </h1>
@@ -20,6 +31,12 @@
 
       <p v-for="topic in data.topics" class="action">
         <NavLink class="action-button" :item="topic" />
+      </p>
+
+      <p class="action">
+        <a class="nav-link action-button" style="border: 0" @click="playVideo">
+          Organische Chemie
+        </a>
       </p>
     </header>
 
@@ -58,6 +75,13 @@ export default {
       };
     },
   },
+  methods: {
+    playVideo() {
+      let videoElement = document.getElementById("player2");
+      videoElement.style.opacity = 1;
+      videoElement.src += "?autoplay=1";
+    },
+  },
 };
 </script>
 
@@ -70,12 +94,21 @@ export default {
 
   .hero {
     text-align: center;
+    position: relative;
 
     img {
       max-width: 100%;
       max-height: 280px;
       display: block;
       margin: 3rem auto 1.5rem;
+    }
+
+    iframe {
+      position: absolute;
+      top: 10px;
+      left: 0px;
+      right: 0px;
+      margin: 0px auto;
     }
 
     h1 {
