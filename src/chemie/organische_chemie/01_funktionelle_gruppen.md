@@ -1,1 +1,0 @@
-# Funktionelle Gruppen
