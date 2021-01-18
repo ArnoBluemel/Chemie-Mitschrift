@@ -1,7 +1,0 @@
-# Alkine
-
-## Dreifachbindung
-
-## Nomenklatur
-
-## Hydrierung

@@ -1,5 +1,0 @@
-# Alkane
-
-## Nomenklatur
-
-## Cycloalkane

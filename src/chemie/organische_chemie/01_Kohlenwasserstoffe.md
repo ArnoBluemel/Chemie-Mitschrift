@@ -1,4 +1,4 @@
-# Organische Chemie
+# Kohlenwasserstoffe
 
 Die organische Chemie befasst sich mit den Stoffen, aus denen alle bekannten Organismen bestehen. Dies sind die meisten Kohlenstoffverbindungen, mit ausnahme von elementarem Kohlenstoff und anorganischen Verbindungen wie Kohlenstoffdioxid. Die Grundform dieser organischen Kohlenstoffverbindungen sind **Kohlenwasserstoffe**, sie bestehen aus mehr oder weniger langen Kohlenstoffketten mit Wasserstoff-**Substituenten**. Die häufigsten Elemente sind neben Kohlenstoff und Wasserstoff vor allem Sauerstoff, Stickstoff, Schwefel und Phosphor, die anstelle von Wasserstoff als **Heteroatome** an einen Kohlenstoff gebunden sein können. Zu den organischen (Makro-)Molekülen gehören zum Beispiel auch Proteine, Saccharide und die DNA.
 
