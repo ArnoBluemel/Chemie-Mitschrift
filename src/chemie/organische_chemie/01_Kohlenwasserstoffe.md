@@ -8,7 +8,7 @@ Der Begründer der organischen Chemie war Jöns Jakob Berzelius, der Begriffe wi
 
 ## Funktionelle Gruppen
 
-Heteroatome wie Schwefel, aber auch ganze Kohlenwasserstoffe oder andere **Seitenketten** sind als funktionelle Gruppen maßgeblich für die Stoffeigenschaften von Kohlenwasserstoff-Derivaten verantwortlich. Viele von diesen hängen eine bestimmte Endung an den Namen des Kohlenwasserstoffs and
+Heteroatome wie Schwefel, aber auch ganze Kohlenwasserstoffe oder andere **Seitenketten** sind als funktionelle Gruppen maßgeblich für die Stoffeigenschaften von Kohlenwasserstoff-Derivaten verantwortlich. Viele von diesen hängen eine bestimmte Endung an den Namen des Kohlenwasserstoffs an.
 
 ### Wichtige funktionelle Gruppen
 
