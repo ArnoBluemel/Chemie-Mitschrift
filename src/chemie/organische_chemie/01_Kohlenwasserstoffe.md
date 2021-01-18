@@ -49,9 +49,24 @@ Moleküle mit gleicher Summenformel können sich in ihrem Aufbau oder ihrer räu
         * **Enantiomere** gleichen sich wie Bild und Spiegelbild
         * **Diastereomere** sind asymmetrisch
 
+<figure>
+    <img src="./media/c4h10.png">
+    <figcaption>Propan/Methylbutan</figcaption>
+</figure>
+
 ## Funktionelle Gruppen
 
 Heteroatome wie Schwefel, aber auch ganze Kohlenwasserstoffe oder andere **Seitenketten** sind als funktionelle Gruppen maßgeblich für die Stoffeigenschaften von Kohlenwasserstoff-Derivaten verantwortlich. Viele von diesen hängen eine bestimmte Endung an den Namen des Kohlenwasserstoffs an.
+
+### Priorität
+
+Die Priorität ist für viele Aspekte der Beschreibung und Benennung von Kohlenwasserstoffen und davon abgeleiteten Molekülen wichtig (z.B. cis/trans, Positionszahl).
+
+**Cahn-Ingold-Prelog-Regeln:**
+
+1. Das Atom mit der höheren Ordnungszahl hat die höhere Priorität.
+2. Doppelbindungen zählen stärker als Einfachbindungen, Dreifachbindungen wiederum stärker als Doppelbindungen.
+3. Wenn zwei Atome in der ersten Sphäre gleich sind, wird die zweite Sphäre verglichen (also das jeweils zweite Atom der Seitenketten).
 
 ### Wichtige funktionelle Gruppen
 
