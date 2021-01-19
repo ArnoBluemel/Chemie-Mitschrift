@@ -50,7 +50,7 @@ Am Beispiel der Reaktion von Chlorat und Iod zu Iodat und Chlorid:
 
 <Formulae> ClO_3^- \; + \; I_2 \; \rightarrow \; IO_3^- \; + \; Cl^- </Formulae>
 
-* Edukte
+* Reaktanten
     * für ClO<sub>3</sub><sup>-</sup>:
 
         $OZ_{ClO_3^-} = -1$ (mehratomiges Ion) </br>
@@ -83,7 +83,7 @@ $\Delta OZ_I = +5$
 
 **4. Bestimmen der gesamten Ladung jeder Seite**
 
-$Q_{Edukte} = 5 * -1 + 3 * 0 = -5$ </br>
+$Q_{Reaktanten} = 5 * -1 + 3 * 0 = -5$ </br>
 $Q_{Produkte} = 6 * -1 + 5 * -1 = -11$
 
 **5. Ausgleichen von Ladungen und Massen**
@@ -169,5 +169,5 @@ An einer Elektrode entsteht durch den entsprechenden Elektrodenprozess ein **Ele
 
 <figure>
     <Formulae> \Delta E = \Delta E° + \frac {R * T} {n * F} * ln(Q) </Formulae>
-    <figcaption>Nernst-Gleichung </br> Q . . . Reaktionquotient (Edukt/Produkt)</figcaption>
+    <figcaption>Nernst-Gleichung </br> Q . . . Reaktionquotient (Reaktant/Produkt)</figcaption>
 </figure>

@@ -6,7 +6,7 @@ Die Kinetik beschäftigt sich mit den Reaktionsgeschwindigkeiten chemischer Proz
 * Bei höherer Temperatur (und damit kinetischer Energie) steigt die Wahrscheinlichkeit, dass die betreffenden Teilchen ausreichend Energie haben, um zu reagieren.
 * Teilchen, die im Winkel von 180° aufeinandertreffen (also direkt entgegengesetzte Geschwindigkeiten haben), können ein Maximum an Energie übertragen. "Streifschüsse" führen hingegen nicht zu einer Reaktion.
 
-Die Reaktionsgeschwindigkeit v beschreibt die zeitliche Änderung der Konzentration von Edukt bzw. Produkt. Für eine Reaktion der Form
+Die Reaktionsgeschwindigkeit v beschreibt die zeitliche Änderung der Konzentration von Reaktant bzw. Produkt. Für eine Reaktion der Form
 
 <figure>
     <Formulae> aA + bB \rightarrow cC </Formulae>
@@ -24,7 +24,7 @@ Da chemische Reaktionen temperaturabhängig sind, wird die Geschwindigkeitskonst
 
 <figure>
     <Formulae> v = k(T) * \Pi c_{A_i} </Formulae>
-    <figcaption>Πc<sub>A<sub>i</sub>​</sub> . . . Produkt aller Edukt-Konzentrationen</figcaption>
+    <figcaption>Πc<sub>A<sub>i</sub>​</sub> . . . Produkt aller Rektanten-Konzentrationen</figcaption>
 </figure>
 
 Die Geschwindigkeitskonstante kann durch die Arrhenius-Gleichung berechnet werden.
@@ -38,7 +38,7 @@ Als Faustregel gilt, dass eine Temperaturerhöhung um 10K die Reaktion verdoppel
 
 ### Reaktionsordnung
 
-Die Reaktionsordnung gibt an, wie stark eine Reaktion von den Eduktkonzentrationen abhängt. Da die Einheit der Reaktionsgeschwindigkeit immer $1 \frac {mol} {L * s}$ ist, hängt auch die Einheit der Geschwindigkeitskonstante von der Reaktionsordnung ab.
+Die Reaktionsordnung gibt an, wie stark eine Reaktion von den Reaktanten-Konzentrationen abhängt. Da die Einheit der Reaktionsgeschwindigkeit immer $1 \frac {mol} {L * s}$ ist, hängt auch die Einheit der Geschwindigkeitskonstante von der Reaktionsordnung ab.
 
 Eine Reaktion nullter Ordnung ist vollkommen unabhängig von der Konzentration. Ein Beispiel ist der Abbau von Alkohol im Körper, der immer mit ca. $0.15 \frac {‰} {h}$ abläuft. Die Reaktionsgeschwindigkeit ist dann gleich der Geschwindigkeitskonstante, die Einheit dieser also $1 \frac {mol} {L * s}$.
 
@@ -121,7 +121,7 @@ Da ein Gleichgewicht dann vorliegt, wenn $v_H = v_R$, kann man diese beiden Glei
 
 <Formulae> \frac {k_H} {k_R} = \frac {{c_C}^c * {c_D}^d} {{c_C}^c * {c_D}^d} = K </Formulae>
 
-Das Gleichgewicht zwischen Edukten und Endprodukten mehrstufiger Reaktionen mit den Gleichgewichtstkonstanten $K_1, K_2, ...$ liegt, unabhängig von den Zwischenprodukten, bei
+Das Gleichgewicht zwischen Reaktantenn und Endprodukten mehrstufiger Reaktionen mit den Gleichgewichtstkonstanten $K_1, K_2, ...$ liegt, unabhängig von den Zwischenprodukten, bei
 
 <Formulae> K = K_1 * K_2 * ... = \Pi K_i </Formulae>
 

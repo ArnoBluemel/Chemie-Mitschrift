@@ -294,6 +294,6 @@ Die Gibbssche freie Enthalpie führt Enhalpie und Entropie in einer Größe zusa
 Die freie Standardbildungsenthalpie ist die Änderung der freien Enthalpie bei der Bildung eines Stoffes aus den Elementen. Sie ist eine stoffspezifische Eigenschaft.
 
 <figure>
-    <Formulae> \Delta G^0 = \Delta G^0_{Produkte} - \Delta G^0_{Edukte} </Formulae>
-    <figcaption>Berechnung der freien Standardbildungsenthalpie für Reaktionen, deren Edukte bereits Verbindungen sind</figcaption>
+    <Formulae> \Delta G^0 = \Delta G^0_{Produkte} - \Delta G^0_{Reaktanten} </Formulae>
+    <figcaption>Berechnung der freien Standardbildungsenthalpie für Reaktionen, deren Reaktanten bereits Verbindungen sind</figcaption>
 </figure>
