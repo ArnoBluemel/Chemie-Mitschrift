@@ -167,4 +167,4 @@ Da $AB$ in gleichem Maße in $A^+$ wie auch in $B^-$ dissoziiert, gilt:
 
 Löslichkeit:
 
-<Formulae> L = \sqrt [a + b] {\frac {KL} {a ^ a * b ^ b}} </Formulae>
+<Formulae> L = \sqrt [a + b] {\frac {K_L} {a ^ a * b ^ b}} </Formulae>
