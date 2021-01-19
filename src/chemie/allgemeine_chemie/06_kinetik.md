@@ -121,7 +121,7 @@ Da ein Gleichgewicht dann vorliegt, wenn $v_H = v_R$, kann man diese beiden Glei
 
 <Formulae> \frac {k_H} {k_R} = \frac {{c_C}^c * {c_D}^d} {{c_C}^c * {c_D}^d} = K </Formulae>
 
-Das Gleichgewicht zwischen Reaktantenn und Endprodukten mehrstufiger Reaktionen mit den Gleichgewichtstkonstanten $K_1, K_2, ...$ liegt, unabhängig von den Zwischenprodukten, bei
+Das Gleichgewicht zwischen Reaktanten und Endprodukten mehrstufiger Reaktionen mit den Gleichgewichtstkonstanten $K_1, K_2, ...$ liegt, unabhängig von den Zwischenprodukten, bei
 
 <Formulae> K = K_1 * K_2 * ... = \Pi K_i </Formulae>
 
