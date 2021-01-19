@@ -31,7 +31,7 @@ Die Geschwindigkeitskonstante kann durch die Arrhenius-Gleichung berechnet werde
 
 <figure>
     <Formulae> k(T) = A * e ^ {- {\frac {E_A} {R * T}}} </Formulae>
-    <figcaption>A . . . Frequenzfaktor (stoffspezifische Konstante)</figcaption>
+    <figcaption>A . . . Frequenzfaktor (stoffspezifische Konstante) </br> E<sub>A</sub> . . . Aktivierungsenergie</figcaption>
 </figure>
 
 Als Faustregel gilt, dass eine Temperaturerhöhung um 10K die Reaktion verdoppelt bis vervierfacht.
