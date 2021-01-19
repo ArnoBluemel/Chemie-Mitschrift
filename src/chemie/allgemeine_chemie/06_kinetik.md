@@ -131,13 +131,13 @@ Ein im Gleichgewicht befindliches System weicht Zwängen (Bedingungsänderungen)
 
 ### Freie Enthalpie im Gleichgewicht
 
-<Formulae> \Delta G = \Delta G° + R * T * ln(K) </Formulae>
+<Formulae> \Delta G = \Delta G^0 + R * T * ln(K) </Formulae>
 
 Im Gleichgewicht gilt $\Delta G = 0$, daher kann die obige Gleichung umgeformt werden:
 
-<Formulae> \Delta G° = - R * T * ln(K) </Formulae>
+<Formulae> \Delta G^0 = - R * T * ln(K) </Formulae>
 
-Die freie Standardenthalpie $\Delta G°$ ist eine reaktionsspezifische Konstante. Wenn diese bekannt ist, kann man daraus die Gleichgewichtskonstante bei einer gegebenen Temperatur berechnen.
+Die freie Standardbildungsenthalpie $\Delta G^0$ ist eine reaktionsspezifische Konstante. Wenn diese bekannt ist, kann man daraus die Gleichgewichtskonstante bei einer gegebenen Temperatur berechnen.
 
 ### Gleichgewicht in Lösungen
 
