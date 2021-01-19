@@ -31,7 +31,7 @@ Aus der Formel für die Gleichgewichtskonstante
 
 <Formulae> K = \frac {c_{H_3O^+} * c_{OH^-}} { {c_{H_2O}} ^2} </Formulae>
 
-lässt sich das Temperatur abhängige Ionenprodukt des Wassers berechnen:
+lässt sich das temperaturabhängige Ionenprodukt des Wassers berechnen:
 
 <Formulae> K_W = K * {c_{H_2O}} ^2 = c_{H_3O^+} * c_{OH^-} </Formulae>
 
