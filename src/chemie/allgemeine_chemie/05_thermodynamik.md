@@ -61,7 +61,7 @@ Der Zustand eines Gases wird bestimmt durch sein Volumen V, den herrschenden Dru
 </figure>
 
 <figure>
-    <Formulae>k_B = 1,38 * 10^-23 \; J/K</Formulae>
+    <Formulae>k_B = 1,38 * 10^{-23} \; J/K</Formulae>
     <figcaption>Boltzmannkonstante</figcaption>
 </figure>
 
