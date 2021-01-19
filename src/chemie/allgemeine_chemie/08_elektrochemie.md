@@ -165,9 +165,9 @@ Ob eine elektrochemische Zelle galvanisch oder elektrolytisch ist, hängt neben 
 
 Wenn an eine elektrochemische Zelle eine Spannung angelegt und so lange anpasst, bis kein Strom mehr fließt (bis also die elektrochemische Gleichgewichtsbedingung erfüllt ist), kann man so die freie Enthalpie einer Reaktion messen.
 
-An einer Elektrode entsteht durch den entsprechenden Elektrodenprozess ein **Elektrodenpotential**, dass an einer anderen Elektrode abgebaut werden muss, bevor die Reaktion weiterlaufen kann. Für die Norm-Wasserstoffelektrode wurde willkürlich das Elektrodenpotential $E° = 0$ festgelegt, von dem aus die Elektrodenpotentiale $\Delta E°$ gemessen werden.
+An einer Elektrode entsteht durch den entsprechenden Elektrodenprozess ein **Elektrodenpotential**, dass an einer anderen Elektrode abgebaut werden muss, bevor die Reaktion weiterlaufen kann. Für die Norm-Wasserstoffelektrode wurde willkürlich das Elektrodenpotential $E^0 = 0$ festgelegt, von dem aus die Elektrodenpotentiale $\Delta E^0$ gemessen werden.
 
 <figure>
-    <Formulae> \Delta E = \Delta E° + \frac {R * T} {n * F} * ln(Q) </Formulae>
+    <Formulae> \Delta E = \Delta E^0 + \frac {R * T} {n * F} * ln(Q) </Formulae>
     <figcaption>Nernst-Gleichung </br> Q . . . Reaktionquotient (Reaktant/Produkt)</figcaption>
 </figure>
