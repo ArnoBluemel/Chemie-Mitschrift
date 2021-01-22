@@ -89,4 +89,9 @@
 
 ## Organische Chemie
 
-**allgemeine Summenformel der Alkane:** $C_nH_{2n+2}$
+**allgemeine Summenformel der Alkane:** $C_nH_{2n+2}$ </br>
+**allgemeine Summenformel der Cycloalkane:** $C_nH_{2n}$ </br>
+**allgemeine Summenformel der Alkene:** $C_nH_{2n}$ </br>
+**allgemeine Summenformel der Alkine:** $C_nH_{2n-2}$
+
+**spezifischer Drehwinkel:** $\alpha _\lambda ^T = \frac \alpha {c * d}$
