@@ -77,7 +77,7 @@ Eine weitere Eigenschaft ist ihre **optische Aktivität**.
 
 ### Racemisierung
 
-Wenn polarisiertes Licht durch ein Enantiomer fällt, wird es um einen bestimmten Winkel rotiert. Der Winkel hängt vom jeweiligen Stoff ab, hat aber bei zusammengehörenden Enantiomeren den gleichen Betrag, mit unterschiedlichem Vorzeichen. Deswegen gleichen sich diese Wirkungen in einem Gemisch, das zu gleichen Teilen aus beiden Enantiomeren besteht (**Racemat**), genau auf. Ein Racemat kann auf verschiedene Weise getrennt werden, um ein bestimmtes Enantiomer zu erhalten.
+Wenn polarisiertes Licht durch ein Enantiomer fällt, wird es um einen bestimmten Winkel rotiert. Der Winkel hängt vom jeweiligen Stoff ab, hat aber bei zusammengehörenden Enantiomeren den gleichen Betrag, mit unterschiedlichem Vorzeichen. Deswegen gleichen sich diese Wirkungen in einem Gemisch, das zu gleichen Teilen aus beiden Enantiomeren besteht (**Racemat**), genau auf. Solche Gemische sind optisch inaktiv Ein Racemat kann auf verschiedene Weise getrennt werden, um ein bestimmtes Enantiomer zu erhalten.
 
 1. Die Kristalle können bei Feststoffen oft unter dem Mikroskop unterschieden und getrennt werden (historisch).
 2. Da biologische Enzyme chirale Moleküle sind, kann man mit ihnen Racemate trennen, indem nur eines der Enantiomere abgebaut wird.
