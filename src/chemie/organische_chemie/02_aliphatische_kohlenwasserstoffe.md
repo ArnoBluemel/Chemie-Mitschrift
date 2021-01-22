@@ -126,7 +126,7 @@ Wenn mehrere gleichnamige Alkylreste vorhanden sind: z.B. $2,4-Diethyl-6-Methyln
 
 ### Cycloalkane
 
-Alkane können auch cyclisiert vorliegen. An den Namen eines cyclischen Alkans wird vorne das Präfix Cyclo- angehängt. Seitenketten funktionieren grundsätzlich gleich. Die Position 1 ist das Kohlenstoffatom mit der Seitenkette mit höchster Priorität. Dann wird in die Richtung gezählt, in der die Seitenkette mit der zweithöchsten Priorität näher ist.
+Alkane können auch cyclisiert vorliegen. An den Namen eines cyclischen Alkans wird vorne das Präfix Cyclo- angehängt. Seitenketten funktionieren grundsätzlich gleich. Die Position 1 ist das Kohlenstoffatom mit der Seitenkette mit höchster Priorität. Dann wird in die Richtung gezählt, in der die Seitenkette mit der zweithöchsten Priorität näher ist. Die Nomenklatur erfolgt ähnlich wie bei "normalen" Alkanen. Vor den Stammnamen wird die Vorsilbe Cyclo- angehängt (z.B. Cyclohexan). Die Positionsnummerierung beginnt beim Substituenten mit der höchsten Priorität.
 
 <figure>
     <img src="./media/cycloalkane.png">
