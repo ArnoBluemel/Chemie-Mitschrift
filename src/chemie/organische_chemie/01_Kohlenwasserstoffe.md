@@ -1,6 +1,12 @@
 # Kohlenwasserstoffe
 
 Die organische Chemie befasst sich mit den Stoffen, aus denen alle bekannten Organismen bestehen. Dies sind die meisten Kohlenstoffverbindungen, mit ausnahme von elementarem Kohlenstoff und anorganischen Verbindungen wie Kohlenstoffdioxid. Die Grundform dieser organischen Kohlenstoffverbindungen sind **Kohlenwasserstoffe**, sie bestehen aus mehr oder weniger langen Kohlenstoffketten mit Wasserstoff-**Substituenten**. Die häufigsten Elemente sind neben Kohlenstoff und Wasserstoff vor allem Sauerstoff, Stickstoff, Schwefel und Phosphor, die anstelle von Wasserstoff als **Heteroatome** an einen Kohlenstoff gebunden sein können. Zu den organischen (Makro-)Molekülen gehören zum Beispiel auch Proteine, Saccharide und die DNA.
+Die H-Atome sind in einem Tetraeder um den Kohlenstoff angeordnet.
+
+<figure>
+    <a title="This file was made by User:Sven, CC BY-SA 3.0 &lt;http://creativecommons.org/licenses/by-sa/3.0/&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Sp3-Orbital.svg"><img width="256" alt="Sp3-Orbital" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Sp3-Orbital.svg/256px-Sp3-Orbital.svg.png"></a>
+    <figcaption>Tetraederform der Orbitale des (sp<sup>3</sup>-hybridisierten) Kohlenstoffs</figcaption>
+</figure>
 
 <figure>
     <img src="./media/organische_verbindungen.png">
