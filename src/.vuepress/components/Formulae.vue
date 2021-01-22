@@ -9,7 +9,11 @@ export default {
       staticClass: "formulae",
       domProps: {
         innerHTML: katex.renderToString(
-          defaultSlot.map((v) => v.text).join("")
+          defaultSlot
+            .map((v) => v.text)
+            .join("")
+            .trim()
+            .replace(/^\$|\$$/g, "")
         ),
       },
     });
