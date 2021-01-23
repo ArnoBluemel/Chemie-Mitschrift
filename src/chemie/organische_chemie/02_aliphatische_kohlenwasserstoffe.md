@@ -180,7 +180,7 @@ In einem Kohlenwasserstoff können auch mehrere Doppelbindungen vorkommen.
 Alkene können durch Hydrierung zu Alkanen werden. Diese Reaktion muss durch einen Katalysater (Nickel, Palladium, Platin) unterstützt werden.
 
 <figure>
-    <img src="./media/alken_hydrierung.png" style="height: 200px">
+    <img src="./media/alken_hydrierung.png">
     <figcaption>Hydrierung eines Alkens zu einem Alkan</figcaption>
 </figure>
 
@@ -189,8 +189,27 @@ Alkene können durch Hydrierung zu Alkanen werden. Diese Reaktion muss durch ein
 Durch die Mesomerie konjugierter Doppelbindungen kann ein Reaktant auf verschiedene Weise mit dem Polyen reagieren. Das genaue Verhältnis der Produkte hängt von den Reaktionsbedingungen ab.
 
 <figure>
-    <img src="./media/konjugierte_addition.png" style="height: 200px">
+    <img src="./media/konjugierte_addition.png">
     <figcaption>Addition von Bromwasserstoff an eine konjugierte Doppelbindung</figcaption>
+</figure>
+
+### Biologische Bedeutung von Alkenen
+
+Kohlenwasserstoffe mit Doppelbindungen spielen in vielen biologischen Prozessen eine wichtige Rolle. Wichtige Alken-Verbindungen sind beispielsweise Bombykol, der Sexuallockstoff der weiblichen Seidenraupe, oder Limonen, der Duftstoff von Citrusfrüchten. Letzteres gehört zu den Terpenen, die neben Duftstoffen oft auch Wirkstoffe in Medikamenten sind. Carotine wie Vitamin A sind Terpene mit einer Reihe von konjugierten Doppelbindungen.
+
+<figure>
+    <a title="Ed (Edgar181), Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Bombykol.svg"><img width="512" alt="Bombykol" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Bombykol.svg/512px-Bombykol.svg.png"></a>
+    <figcaption>Bombykol</figcaption>
+</figure>
+
+<figure>
+    <a title="Benjah-bmm27, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Limonene-2D-skeletal.svg"><img width="128" alt="Limonene-2D-skeletal" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Limonene-2D-skeletal.svg/128px-Limonene-2D-skeletal.svg.png"></a>
+    <figcaption>Limonen</figcaption>
+</figure>
+
+<figure>
+    <a title="NEUROtiker, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:All-trans-Retinol.svg"><img width="256" alt="All-trans-Retinol" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/All-trans-Retinol.svg/256px-All-trans-Retinol.svg.png"></a>
+    <figcaption>Vitamin A (Retinol)</figcaption>
 </figure>
 
 ## Alkine
