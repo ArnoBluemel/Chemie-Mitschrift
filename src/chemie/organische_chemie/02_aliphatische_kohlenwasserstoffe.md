@@ -173,15 +173,6 @@ In einem Kohlenwasserstoff können auch mehrere Doppelbindungen vorkommen.
 * **Isolierte** Doppelbindungen sind voneinander getrennt.
 * **Konjugierte** Doppelbindungen liegen immer abwechselnd mit einer Einfachbindung vor. Da alle C-Atome sp<sup>2</sup>-hybridisiert sind, lässt sich nicht festlegen wo genau die Einfach- und wo die Doppelbindungen sind (Mesomerie).
 
-### Reaktionen mit Alkenen
-
-Durch Addition von Wasser an eine Doppelbindung kann ein Alkohol erzeugt werden. Da die Reaktion nur bei hohem pH-Wert (also unter harschen Bedingungen) abläuft, ist sie bei längeren Molekülen wenig selektiv.
-
-<figure>
-    <img src="./media/ethen_ethanol.png">
-    <figcaption>säurekatalysierte Hydrierung von Ethen zu Ethanol</figcaption>
-</figure>
-
 ## Alkine
 
 Alkine haben mindestens eine Dreifachbindung zwischen zwei sp-hybridisierten C-Atomen. Die sp-Orbitale liegen 180° auseinander, während die beiden p-Orbitale (p<sub>y</sub> und p<sub>z</sub>) normal dazu und zueinander stehen. Da die Bindungspartner der C-Atome jeweils genau gegenüber liegen, gibt es keinen Unterschied zwischen Konformationen, Konfigurationen etc.
