@@ -173,6 +173,26 @@ In einem Kohlenwasserstoff können auch mehrere Doppelbindungen vorkommen.
 * **Isolierte** Doppelbindungen sind voneinander getrennt.
 * **Konjugierte** Doppelbindungen liegen immer abwechselnd mit einer Einfachbindung vor. Da alle C-Atome sp<sup>2</sup>-hybridisiert sind, lässt sich nicht festlegen wo genau die Einfach- und wo die Doppelbindungen sind (Mesomerie).
 
+### Reaktionen
+
+#### Hydrierung
+
+Alkene können durch Hydrierung zu Alkanen werden. Diese Reaktion muss durch einen Katalysater (Nickel, Palladium, Platin) unterstützt werden.
+
+<figure>
+    <img src="./media/alken_hydrierung.png" style="height: 200px">
+    <figcaption>Hydrierung eines Alkens zu einem Alkan</figcaption>
+</figure>
+
+#### Addition an konjugierte Doppelbindungen
+
+Durch die Mesomerie konjugierter Doppelbindungen kann ein Reaktant auf verschiedene Weise mit dem Polyen reagieren. Das genaue Verhältnis der Produkte hängt von den Reaktionsbedingungen ab.
+
+<figure>
+    <img src="./media/konjugierte_addition.png" style="height: 200px">
+    <figcaption>Addition von Bromwasserstoff an eine konjugierte Doppelbindung</figcaption>
+</figure>
+
 ## Alkine
 
 Alkine haben mindestens eine Dreifachbindung zwischen zwei sp-hybridisierten C-Atomen. Die sp-Orbitale liegen 180° auseinander, während die beiden p-Orbitale (p<sub>y</sub> und p<sub>z</sub>) normal dazu und zueinander stehen. Da die Bindungspartner der C-Atome jeweils genau gegenüber liegen, gibt es keinen Unterschied zwischen Konformationen, Konfigurationen etc.
