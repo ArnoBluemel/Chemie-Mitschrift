@@ -70,21 +70,21 @@ Die Priorität ist für viele Aspekte der Beschreibung und Benennung von Kohlenw
             <td>-ol</td>
         </tr>
         <tr>
-            <td>Aldehyd</td>
+            <td>Aldehyd (Carbonylgruppe mit Wasserstoff)</td>
             <td>
                 <img src="./media/aldehyd.png" style="width: 100px">
             </td>
             <td>-al</td>
         </tr>
         <tr>
-            <td>Carbonsäure</td>
+            <td>Carbonsäure (Carboxylgruppe)</td>
             <td>
                 <img src="./media/carbonsäure.png" style="width: 100px">
             </td>
             <td>-säure</td>
         </tr>
         <tr>
-            <td>Keton</td>
+            <td>Keton (Carbonylgruppe mit organischem Rest)</td>
             <td>
                 <img src="./media/keton.png" style="width: 100px">
             </td>
