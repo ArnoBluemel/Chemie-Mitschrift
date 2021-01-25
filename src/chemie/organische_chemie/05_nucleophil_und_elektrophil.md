@@ -49,10 +49,39 @@ Die Hydroborierung ist eine konzertierte Reaktion, bei der kein Zwischenprodukt 
 
 ## Elektrophile aromatische Substitution
 
+Bei der elektrophilen Substition an einem Aromaten interagiert das Elektrophil mit den $\pi$-Elektronen des Rings und bildet so den $\pi$-Komplex. Daraus entsteht der mesomeriestabilisierte $\sigma$-Komplex. Durch Deprotonierung wird der Wasserstoff abgespalten, und wurde somit durch das Elektrophil substituiert.
+
+<figure>
+    <img src="./media/elektromatische_subst.png">
+    <figcaption>schematischer Ablauf der elektrophilen aromatischen Substitution</figcaption>
+</figure>
+
 ### Halogenierung
+
+Bei der Halogenierung wird das Halogen zuerst durch den Katalysator (z.B. AlCl<sub>3</sub>) aktiviert. Das dadurch entstehende Halogenid fungiert dann als Elektrophil.
+
+<figure>
+    <img src="./media/halogenierung.png">
+    <figcaption></figcaption>
+</figure>
 
 ### Nitrierung
 
+Bei der Nitrierung wird ein Wasserstoff mit einem Nitronium-Ion (NO<sub>2</sub><sup>+</sup>) substituert, das hoch reaktiv ist und meist *in situ* (während der Reaktion) hergestellt.
+
+<Formulae> H_2SO_4 \; + \; HNO_3 \; \rightarrow \; HSO_4^- \; + \; H_2NO_3 </Formulae>
+<Formulae> H_2NO_3 \; \rightarrow \; H_2O \; + \; NO_2^+ </Formulae>
+
+<figure>
+    <img src="./media/nitrierung.png">
+    <figcaption></figcaption>
+</figure>
+
 ### Sulfonierung
+
+<figure>
+    <img src="./media/sulfonierung.png">
+    <figcaption></figcaption>
+</figure>
 
 ### Friedel-Crafts-Reaktionen
