@@ -92,18 +92,18 @@ Wenn ein Heteroatom in einem aromatischen Ring ein freies Elektronenpaar hat, da
 
 **1.** Substituenten werden vor den Namen des Aromaten geschrieben.
 
-<table>
+<table class="gallery-table">
     <tbody>
         <tr>
             <td>
                 <figure>
-                    <img src="./media/chlorbenzen.png">
+                    <img src="./media/chlorbenzen.png" style="width:80px">
                     <figcaption>Chlorbenzen</figcaption>
                 </figure>
             </td>
             <td>
                 <figure>
-                    <img src="./media/Nitrobenzen.png">
+                    <img src="./media/Nitrobenzen.png" style="width:80px">
                     <figcaption>Nitrobenzen</figcaption>
                 </figure>
             </td>
@@ -113,41 +113,66 @@ Wenn ein Heteroatom in einem aromatischen Ring ein freies Elektronenpaar hat, da
 
 **2.** Die Regeln für mehrfache Substitution sind gleich den aliphatischen Kohlenwasserstoffen
 
-<table>
+<figure>
+    <img src="./media/1,2,4-tribrombenzen.png" style="width:160px">
+    <figcaption>1,2,4-Tribrombenzen</figcaption>
+</figure>
+
+**3.** Positionsziffern werden wie bei Cykloalkanen vergeben.
+
+**&**
+
+**4.** Wenn verschiedene Substituenten vorhanden sind, werden diese alphabetisch gereiht.
+
+<figure>
+    <img src="./media/brom-chlor-nitrobenzen.png" style="width:200px">
+    <figcaption>1-Brom-3-chlor-5-nitrobenzen</figcaption>
+</figure>
+
+**5.** Wenn ein Trivialname für den Aromaten mit einem der Substituenten existiert, wird dieser als Basis verwendet. Die Positionsziffern beginnen mit 1 für den Substituenten des Stammmoleküls.
+
+<figure>
+    <img src="./media/brombenzoesäure.png" style="width:160px">
+    <figcaption>Brombenzoesäure</figcaption>
+</figure>
+
+Aromaten haben oft einen gebräuchlichen Trivialnamen. Wenn ein Aromat zwei Substituenten hat, kann auch deren relative Stellung zueinander statt der Positionsziffern angegeben werden.
+
+<table class="gallery-table">
     <tbody>
         <tr>
             <td>
-                <figure>
+                <figure style="margin: 0px; width: 80px">
                     <img src="./media/toluol.png" style="width: 200px">
                     <figcaption>Toluol</figcaption>
                 </figure>
             </td>
             <td>
-                <figure>
+                <figure style="margin: 0px; width: 80px">
                     <img src="./media/styrol.png">
                     <figcaption>Styrol</figcaption>
                 </figure>
             </td>
             <td>
-                <figure>
+                <figure style="margin: 0px; width: 80px">
                     <img src="./media/anilin.png">
                     <figcaption>Anilin</figcaption>
                 </figure>
             </td>
             <td>
-                <figure>
+                <figure style="margin: 0px; width: 80px">
                     <img src="./media/phenol.png">
                     <figcaption>Phenol</figcaption>
                 </figure>
             </td>
             <td>
-                <figure>
+                <figure style="margin: 0px; width: 80px">
                     <img src="./media/benzaldehyd.png">
                     <figcaption>Benzaldehyd</figcaption>
                 </figure>
             </td>
             <td>
-                <figure>
+                <figure style="margin: 0px; width: 80px">
                     <img src="./media/benzoesäure.png">
                     <figcaption>Benzoesäure</figcaption>
                 </figure>
@@ -156,16 +181,27 @@ Wenn ein Heteroatom in einem aromatischen Ring ein freies Elektronenpaar hat, da
     </tbody>
 </table>
 
-**3.** Positionsziffern werden wie bei Cykloalkanen vergeben.
-
-
-
-**4.** Wenn verschiedene Substituenten vorhanden sind, werden diese alphabetisch gereiht.
-
-
-
-**5.** Wenn ein Trivialname für den Aromaten mit einem der Substituenten existiert, wird dieser als Basis verwendet. Die Positionsziffern beginnen mit 1 für den Substituenten des Stammmoleküls.
-
-
-
-Aromaten haben oft einen gebräuchlichen Trivialnamen. Wenn ein Aromat zwei Substituenten hat, kann auch deren relative Stellung zueinander statt der Positionsziffern angegeben werden.
+<table class="gallery-table">
+    <tbody>
+        <tr>
+            <td>
+                <figure>
+                    <img src="./media/ortho.png" style="height:100px">
+                    <figcaption>ortho</figcaption>
+                </figure>
+            </td>
+            <td>
+                <figure>
+                    <img src="./media/para.png" style="height:100px">
+                    <figcaption>para</figcaption>
+                </figure>
+            </td>
+            <td>
+                <figure>
+                    <img src="./media/meta.png" style="height:100px">
+                    <figcaption>meta</figcaption>
+                </figure>
+            </td>
+        </tr>
+    </tbody>
+</table>
