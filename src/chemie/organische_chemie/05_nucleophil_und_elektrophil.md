@@ -97,3 +97,33 @@ Bei den Friedel-Crafts-Reaktionen wird ein Halogenalkan bzw. ein Acyliumhalogeni
     <img src="./media/fc_acylierung.png">
     <figcaption>Friedel-Crafts-Acylierung</figcaption>
 </figure>
+
+## Nucleophile Substitution (S<sub>N</sub>)
+
+Bei einem nucleophilen Angriff auf ein positiviertes Kohlenstoffatom wird die Abgangsgruppe Y durch das Nucleophil X<sup>-</sup> ersetzt.
+
+<figure>
+    <img src="./media/nuc_subst.png">
+    <figcaption>allgemeine Reaktionsgleichung einer nucleophilen Substitution</figcaption>
+</figure>
+
+### monomolekulare nucleophile Substitution (S<sub>N1</sub>)
+
+Bei einer S<sub>N1</sub>-Reaktion dissoziiert die C-Y-Bindung im Lösungsmittel, wodurch ein positiv geladenes Carbenium-Ion entsteht, an das das Nucleophil angreifen kann. Dieser Schritt ist der langsamste in der Kette und damit geschwindigkeitsbestimmend. Deswegen ist die Reaktionsgeschwindigkeit nur von der Konzentration dieses Moleküls abhängig (Reaktion 1. Ordnung).
+
+<Formulae> v = k * c </Formulae>
+
+S<sub>N1</sub>-Reaktionen laufen vor allem in polar-protischen Lösungsmitteln ab. Günstig ist außerdem, wenn das entstehende Carbenium-Ion möglichst stabil ist (tert > sek > prim).
+
+<figure>
+    <img src="./media/sn1.png">
+    <Formulae> v = k * c_{tert-Butylbromid} </Formulae>
+    <figcaption>nucleophile Substitution von Brom durch eine Hydroxid-Gruppe an tert-Butylbromid</figcaption>
+</figure>
+
+Da bei diesem Reaktionsmechanismus zuerst das Carbenium-Ion entsteht, gibt es keine Kontrolle, auf welcher Seite das Nucleophil gebunden wird. Dadurch sind bei einer S<sub>N1</sub>-Substitution an einem chiralen Kohlenstoff **Retention und Inversion** gleich häufig und es kommt zur Racemisierung.
+
+<figure>
+    <img src="./media/racemisierung.png">
+    <figcaption>Das Nucleophil kann an beiden Seiten angreifen, egal, wo vorher die Abgangsgruppe war.</figcaption>
+</figure>
