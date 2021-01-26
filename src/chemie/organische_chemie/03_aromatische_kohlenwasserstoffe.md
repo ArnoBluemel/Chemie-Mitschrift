@@ -205,3 +205,28 @@ Aromaten haben oft einen gebräuchlichen Trivialnamen. Wenn ein Aromat zwei Subs
         </tr>
     </tbody>
 </table>
+
+## Effekte von Substituenten
+
+Wenn an z.B. Toluol Brom substituert wird, würde man rein statistisch erwarten, dass das Verhältnis von ortho : meta : para bei den Produkten ca. 2 : 2 : 1 entspricht, da es für die ersten beiden je zwei Möglichkeiten gibt (links/rechts vom Methyl), für para aber nur genau eine (gegenüber vom Methyl). Tatsächlich macht para-Bromtoluol aber knapp 60% der Produkte aus, während der Anteil von meta-Bromtoluol unter 1% liegt. Bereits vorhandene Substituenten haben also eine dirigierende Wirkung.
+
+<figure>
+    <img src="./media/dirigierend.png">
+    <figcaption></figcaption>
+</figure>
+
+Neben diesem Einfluss auf den Bildungsort haben sie auch eine Auswirkung auf die Elektronendichte und damit auf die Reaktionsgeschwindigkeit.
+
+Der **induktive Effekt** hängt von der Elektronegativität bzw. Ladung des Substituenten ab. Wenn der Substituentent negativ geladen ist oder eine niedrige Elektronegativität hat, "schiebt" er Elektronen in den Ring und erhöht die Elektronendichte (+I). Ein positiver bzw. stark Elektronegativer Substituent "zieht" Elektronen aus dem System und verringert so die Elektronendichte (-I).
+
+<figure>
+    <img src="./media/induktiver_effekt.png">
+    <figcaption>induktiver Effekt</figcaption>
+</figure>
+
+Wenn ein Substituent in der Lage ist, über freie Elektronenpaare oder ungesättigte Bindungen Elektronen für Mesomerie zur Verfügung zu stellen, wirkt ein **mesomerer Effekt**. Dieser kann die Elektronendichte im Ring erhöhen (+M) oder verringern (-M).
+
+<figure>
+    <img src="./media/mesomerer_effekt.png">
+    <figcaption>mesomerer Effekt</figcaption>
+</figure>

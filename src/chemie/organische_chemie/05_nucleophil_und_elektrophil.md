@@ -85,3 +85,15 @@ Bei der Nitrierung wird ein Wasserstoff mit einem Nitronium-Ion (NO<sub>2</sub><
 </figure>
 
 ### Friedel-Crafts-Reaktionen
+
+Bei den Friedel-Crafts-Reaktionen wird ein Halogenalkan bzw. ein Acyliumhalogenid durch das entsprechende Aluminiumhalogenid aktiviert, indem das Halogen abgespalten wird.
+
+<figure>
+    <img src="./media/fc_alkylierung.png">
+    <figcaption>Friedel-Crafts-Alkylierung</figcaption>
+</figure>
+
+<figure>
+    <img src="./media/fc_acylierung.png">
+    <figcaption>Friedel-Crafts-Acylierung</figcaption>
+</figure>
