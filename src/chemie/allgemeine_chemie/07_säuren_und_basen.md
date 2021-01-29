@@ -1,6 +1,6 @@
 # Säuren und Basen
 
-Die älteste Definition von Säuren und Basen geht auf Arrhenius zurück und beschreibt Säuren als Stoffe, die in wässriger Lösung in Protonen (H<sup>+</sup>) und Anionen dissoziieren, während Basen zu Hydroxidionen (OH<sup>-</sup>) und Kationen dissoziieren. Diese Definition beschreibt nur den Fall für Wasser als Lösungsmittel. Nach Brønsted und Lowry Säuren **Protonendonatoren** und Basen **Protonenakzeptoren**.
+Die älteste Definition von Säuren und Basen geht auf Arrhenius zurück und beschreibt Säuren als Stoffe, die in wässriger Lösung in Protonen (H<sup>+</sup>) und Anionen dissoziieren, während Basen zu Hydroxidionen (OH<sup>-</sup>) und Kationen dissoziieren. Diese Definition beschreibt nur den Fall für Wasser als Lösungsmittel. Nach Brønsted und Lowry sind Säuren **Protonendonatoren** und Basen **Protonenakzeptoren**.
 
 <figure>
     <Formulae>
