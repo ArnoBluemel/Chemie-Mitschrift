@@ -127,3 +127,31 @@ Da bei diesem Reaktionsmechanismus zuerst das Carbenium-Ion entsteht, gibt es ke
     <img src="./media/racemisierung.png">
     <figcaption>Das Nucleophil kann an beiden Seiten angreifen, egal, wo vorher die Abgangsgruppe war.</figcaption>
 </figure>
+
+### bimolekulare nucleophile Substitution (S<sub>N2</sub>)
+
+Bei der S<sub>N2</sub>-Reaktion greift das Nucleophil gegenüber der Abgangsgruppe an, wobei ein Übergangszustand entsteht, bevor die Abgangsgruppe abgespalten wird. Da im ersten Schritt das Ausgangsmolekül und auch das Nucleophil vorhanden sein müssen, hängt die Reaktionsgeschwindigkeit von zwei Molekülen ab (Reaktion 2. Ordnung).
+
+<Formulae> v = k * c_1 * c_2 </Formulae>
+
+S<sub>N2</sub>-Reaktionen laufen bevorzugt in polar aprotischen Lösungsmitteln ab, wenn das betreffende Carbenium-Ion instabil wäre (also eher an primären oder sekundären Kohlenstoffen als an tertiären).
+
+<figure>
+    <img src="./media/sn2.png">
+    <Formulae> v = k * c_{R-2-Brombutan} * c_{OH^-} </Formulae>
+    <figcaption>nucleophile Substitution von Brom durch eine Hydroxid-Gruppe an R-2-Brombutan</figcaption>
+</figure>
+
+Wenn das Kohlenstoff-Atom am Ausgangsmolekül chiral ist, wird wird die Absolutkonfiguration invertiert (**Walden-Umkehr**). Um ein Produkt mit der gleichen Chiralität zu erhalten (z.B. in biologischen Systemen) wird die Reaktion in zwei Teilschritten durchgeführt, um durch zweifache Walden-Umkehr ein Molekül mit der gleichen Absolutkonfiguration zu erhalten.
+
+<figure>
+    <img src="./media/walden-umkehr.png">
+    <figcaption>Das Nucleophil greift am leeren antibindenden Molekülorbital, gegenüber der Abgangsgruppe an. Dadurch sind die Molekülorbitale der Bindung zur Abgangsgruppe voll besetzt (Bindungsordnung = 0), die Bindung wird gelöst.</figcaption>
+</figure>
+
+### Reaktionsenergien
+
+<figure>
+    <img src="./media/sn1_sn2.png">
+    <figcaption>Verlauf der freien Enthalpie G während der Reaktion (links: S<sub>N1</sub>; rechts: S<sub>N2</sub>)</figcaption>
+</figure>
