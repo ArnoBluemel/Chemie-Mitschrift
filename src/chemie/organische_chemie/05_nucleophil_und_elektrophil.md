@@ -118,7 +118,7 @@ S<sub>N1</sub>-Reaktionen laufen vor allem in polar-protischen Lösungsmitteln a
 <figure>
     <img src="./media/sn1.png">
     <Formulae> v = k * c_{tert-Butylbromid} </Formulae>
-    <figcaption>nucleophile Substitution von Brom durch eine Hydroxid-Gruppe an tert-Butylbromid</figcaption>
+    <figcaption>nucleophile Substitution von Brom durch eine Hydroxy-Gruppe an tert-Butylbromid</figcaption>
 </figure>
 
 Da bei diesem Reaktionsmechanismus zuerst das Carbenium-Ion entsteht, gibt es keine Kontrolle, auf welcher Seite das Nucleophil gebunden wird. Dadurch sind bei einer S<sub>N1</sub>-Substitution an einem chiralen Kohlenstoff **Retention und Inversion** gleich häufig und es kommt zur Racemisierung.
