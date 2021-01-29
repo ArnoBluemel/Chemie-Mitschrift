@@ -183,3 +183,26 @@ Die Priorität ist für viele Aspekte der Beschreibung und Benennung von Kohlenw
         </tr>
     </tbody>
 </table>
+
+## Organyle
+
+Organyle sind metallorganische (oder allgemein elementorganische) Verbindungen, in denen das Kohlenstoff-Atom an ein weniger elektronegatives Element gebunden ist bzw. ein freies Elektron hat. Dadurch trägt der Kohlenstoff eine negative (Partial-)Ladung und agiert als Nucleophil.
+
+**Cyanid-Alkinyl-Anionen:**
+
+Herstellung aus einem Nitril oder Alkin mit einer Base:
+
+<img src="./media/caa_1.png" style="height:50px"> 
+<img src="./media/caa_2.png" style="height:50px">
+
+**Grignard-Bindungen:**
+
+Insertion von Magnesium in ein Halogenalkan:
+
+<img src="./media/grignard.png" style="height:50px">
+
+**Lithiumorganyle:**
+
+Substitution eines Halogens an einem Halogenalkan durch Lithium:
+
+<img src="./media/lithiumorganyl.png" style="height:50px">
