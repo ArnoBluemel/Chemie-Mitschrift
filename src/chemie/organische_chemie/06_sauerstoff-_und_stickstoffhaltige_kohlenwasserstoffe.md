@@ -112,7 +112,7 @@ An den Stammnamen des zugrundeliegenden Alkans wird die Positionsziffer der Carb
             <td>
                 <figure>
                     <img src="./media/ethanal.png">
-                    <figcaption>Ethana </br> (Acetaldehyd)</figcaption>
+                    <figcaption>Ethanal </br> (Acetaldehyd)</figcaption>
                 </figure>
             </td>
             <td>
@@ -268,6 +268,89 @@ Nach einer Aldoladdition kann noch ein Wassermolekülabgespalten werden, wenn da
 </figure>
 
 ## Carbonsäuren
+
+Carbonsäuren haben eine endständige Carboxylgruppe. Diese kann gut Wasserstoffbrücken mit einer anderen Carboxylgruppe ausbilden, weshalb Carbonsäuren hohe Siedepunkte haben.
+
+<figure>
+    <img src="./media/carbs_hbrck.png">
+    <figcaption>Wassterstoffbrücken zwischen zwei Carbonsäuren</figcaption>
+</figure>
+
+Wie der Name schon sagt, agieren Carbonsäuren als Säuren und geben Protonen ab. Dadurch entstehen **Carboxylate**.
+
+<figure>
+    <img src="./media/carboxylat.png">
+    <figcaption>Carboxylat-Ion</figcaption>
+</figure>
+
+### Nomenklatur
+
+Grundsätzlich wird an den Namen einer Carbonsäure einfach das Wort -(carbon)säure angehängt. Oft existieren aber auch Trivialnamen, die häufige Anwendung finden.
+
+<table class="gallery-table">
+    <tbody>
+        <tr>
+            <td>
+                <figure>
+                    <img src="./media/methansäure.png">
+                    <figcaption>Methansäure </br> (Ameisensäure)</figcaption>
+                </figure>
+            </td>
+            <td>
+                <figure>
+                    <img src="./media/ethansäure.png">
+                    <figcaption>Ethansäure </br> (Essigsäure)</figcaption>
+                </figure>
+            </td>
+            <td>
+                <figure>
+                    <img src="./media/propensäure.png">
+                    <figcaption>Propensäure </br> (Acrylsäure)</figcaption>
+                </figure>
+            </td>
+            <td>
+                <figure>
+                    <img src="./media/benzoesäure.png" style="height: 130px">
+                    <figcaption>Benzencarbonsäure </br> (Benzoesäure)</figcaption>
+                </figure>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+### Reaktivität
+
+Durch die beiden Sauerstoffe mit ihren freien Elektronenpaaren kommt es zu einer mesomeren Stabilisierung mit einer geringen Partialladung am Kohlenstoff, wodurch kein Carbenium-Ion entsteht. Deswegen sind Carbonsäuren grundsätzlich reaktionsträge. Dafür haben sie eine hohe Acidität, da das Carboxylat-Ion besonders gut durch die Resonanz stabilisiert wird.
+
+<figure>
+    <img src="./media/carbs_mesomerie.png">
+    <figcaption>Mesomerie einer Carbonsäure</figcaption>
+</figure>
+
+<figure>
+    <img src="./media/carboxylat_mesomerie.png">
+    <figcaption>Mesomerie eines Carboxylat-Ions</figcaption>
+</figure>
+
+### Herstellung
+
+Carbonsäuren können zum Beispiel mit Kaliumpermanganat als Katalysator aus primären Alkoholen oder Aldehyden hergestellt werden.
+
+<Formulae> R-CH_2-OH \; \stackrel {KMnO_4} {\rightarrow} \; R-COOH </Formulae>
+
+Eine weitere Möglichkeit ist die Reaktion zwischen einer Grignard-Verbindung und Kohlenstoffdioxid.
+
+<figure>
+    <img src="./media/grignard_carbs.png">
+    <figcaption></figcaption>
+</figure>
+
+Ein dritter Weg ist die Hydrolyse von Nitrilen unter sauren oder basischen Bedingungen.
+
+<figure>
+    <img src="./media/nitril_hydr.png">
+    <figcaption></figcaption>
+</figure>
 
 # TODO:
 
