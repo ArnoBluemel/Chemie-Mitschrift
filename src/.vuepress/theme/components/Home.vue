@@ -33,7 +33,7 @@
         <NavLink class="action-button" :item="topic" />
       </p>
 
-      <p class="action">
+      <!--p class="action">
         <a
           class="nav-link action-button"
           style="border: 0; cursor: pointer"
@@ -41,7 +41,7 @@
         >
           Organische Chemie →
         </a>
-      </p>
+      </p-->
     </header>
 
     <div v-if="data.features && data.features.length" class="features">

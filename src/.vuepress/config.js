@@ -51,11 +51,11 @@ module.exports = {
       },
       {
         text: "Organische Chemie",
-        link: "/chemie/organische_chemie/",
+        link: "/chemie/organische_chemie/01_kohlenwasserstoffe",
       },
       {
-        text: "VuePress",
-        link: "https://v1.vuepress.vuejs.org",
+        text: "Formeln/Konstanten",
+        link: "/chemie/00_formeln_und_konstanten/01_formelsammlung",
       },
     ],
     sidebar: sidebar,
