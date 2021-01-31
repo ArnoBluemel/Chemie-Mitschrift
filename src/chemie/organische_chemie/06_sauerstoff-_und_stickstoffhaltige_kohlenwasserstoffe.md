@@ -352,8 +352,322 @@ Ein dritter Weg ist die Hydrolyse von Nitrilen unter sauren oder basischen Bedin
     <figcaption></figcaption>
 </figure>
 
-# TODO:
+### Carbonsäurederivate
 
-Phosphorsäureester etc. bei Ester dazutun
+Carbonsäurederivate entstehen formal durch Ersetzen der Hydroxygruppe durch ein Nucleophil. Dadurch entstehen Säurehalogenide, Anhydride, Ester oder Amide. Säurehalogenide und Anhydride haben durch die Elektronegativitätsdifferenz eine positive Partialladung am Kohlenstoffatom der Carboxylgruppe, weshalb sie sehr reaktiv sind. Ester und Amide sind dagegen ähnlich wie Carbonäuren durch Mesomerie stabilisiert und dadurch eher reaktionsträge.
 
-Amine/Enamine aus Ketonen/Aldehyden
+<figure>
+    <Formulae> Säurechlorid > Anhydrid > Ester > Carbonsäure > Amid </Formulae>
+    <figcaption>Reaktivitäten der Carbonsäurederivate</figcaption>
+</figure>
+
+#### nucleophile Acylsubstitution
+
+Die Bildung von Carbonsäurederivaten basiert auf der nucleophilen Acylsubstitution, bei der das Nucleophil am Kohlenstoffatom angreift, wodurch die Doppelbindung zum Sauerstoff gebrochen wird. Im nächsten Schritt wird diese neu gebildet. Wenn der alte Substituent eine bessere Abgangsgruppe ist, wird er dabei abgespalten und das Nucleophil übernimmt seinen Platz.
+
+<figure>
+    <img src="./media/nuc_acyl1.png">
+    <figcaption>Acylsubstitution mit negativem Nucleophil</figcaption>
+</figure>
+
+<figure>
+    <img src="./media/nuc_acyl2.png">
+    <figcaption>Acylsubstitution mit neutralem Nucleophil</figcaption>
+</figure>
+
+#### Carbonsäurehalogenide
+
+Carbonsäurehalogenide enden entsprechend ihrem Halogen mit dem Namen des entsprechenden Halogenid-Ions (Cl -> -chlorid, Br -> -bromid, ...). Sie werden aus einer Carbonsäure und z.B. Thionylchlorid gebildet.
+
+<Formulae> R-COOH \; \stackrel {SOCl_2} \rightarrow \; R-COCl </Formulae>
+
+Aus Säurehalogeniden können Ester und Amide hergestellt werden.
+
+<figure>
+    <img src="./media/carbhal_ester.png">
+    <figcaption>Reaktion mit einem primären Alkohol zu einem Ester</figcaption>
+</figure>
+
+<figure>
+    <img src="./media/carbhal_amid.png">
+    <figcaption>Reaktion mit einem Amin zu einem Amid</figcaption>
+</figure>
+
+#### Carbonsäureanhydride
+
+Aus zwei Carbonsäuren entsteht unter Abspaltung von Wasser ein Carbonsäureanhydrid.
+
+<figure>
+    <img src="./media/anhydrid.png">
+    <figcaption></figcaption>
+</figure>
+
+Aus Dicarbonsäuren können auch cyclische Anhydride entstehen (bzw. umgekehrt).
+
+<figure>
+    <img src="./media/maleinsäureanhydrid.png">
+    <figcaption>Maleinsäureanhydrid</figcaption>
+</figure>
+
+Durch die Reaktion mit einem Alkohol kann ein Anhydrid in einen Ester und eine Carbonsäure gespalten werden.
+
+<figure>
+    <img src="./media/anhydrid_alk.png">
+    <figcaption></figcaption>
+</figure>
+
+## Ester
+
+**Carbonsäureester** entstehen formal, unter sauren Bedingungen und durch Abspaltung von Wasser (=> Kondensationsreaktion), aus einer Carbonsäure und einem Alkohol.
+
+<figure>
+    <img src="./media/ester2.png">
+    <figcaption></figcaption>
+</figure>
+
+Schwefelsäure und Phosphorsäure haben zwei bzw. drei Hydroxygruppen, weshalb sie auch mehr Alkohole aufnehmen können. Dadurch entstehen **Schwefel- und Phosphorsäureester**.
+
+<figure>
+    <img src="./media/schwefelester.png">
+    <figcaption>Schwefelsäureester</figcaption>
+</figure>
+
+<figure>
+    <img src="./media/phosphorester.png">
+    <figcaption>Phosphorsäureester</figcaption>
+</figure>
+
+### Nomenklatur
+
+Eine vor allem im deutschen Sprachraum gebräuchliche Bennenungsmethode für Carbonsäureester geht von der Säure aus und hängt daran den Namen des Alkyls, das aus dem Alkohol entsteht, sowie die Endung -ester an. International wird eher die Variante verwendet, bei der auf den Namen des Alkyls der Name des Carboxylat-Ions folgt.
+
+<figure>
+    <img src="./media/propylformiat.png">
+    <figcaption>Ameisensäurepropylester/Propylformiat</figcaption>
+</figure>
+
+### Reaktionsmechanismus der Synthese
+
+<figure>
+    <img src="./media/ester_synthese.png">
+    <figcaption></figcaption>
+</figure>
+
+Der Sauerstoff, der zuvor über die Doppelbindung mit dem Kohlenstoff verbunden war, wird abgespalten. Der Sauerstoff der Hydroxygruppe bildet die neue Doppelbindung, während die Verbindung zum Alkylrest über den Sauerstoff des Alkohols hergestellt wird. Eine Ausnahme sind zum Beispiel tert-Butylester, bei deren Bildung der Alkohol statt der Carbonsäure (tert-Butanol) durch das Proton aktiviert wird. Dadurch entsteht ein tertiäres Carbenium-Ion, an dem die Hydroxygruppe der Carbonsäure als Nucleophil angreift. Deswegen bleibt die Doppelbindung am Carbonyl erhalten und die Verbindung entsteht über das Sauerstoffatom der Carbonsäure.
+
+<figure>
+    <img src="./media/tert-butylester.png">
+    <figcaption>Aktivierung von tert-Butanol</figcaption>
+</figure>
+
+Daneben können Ester auch aus Säurechloriden oder Anhydriden durch Acylsubstitution mit einem Alkohol oder Alkoholat hergestellt werden.
+
+### Cyclische Ester (Lactone)
+
+Lactone entstehen durch intramolekulare Veresterung. Die Benennung erfolgt nach der Größe des Rings. Vorne an das Wort Lacton wird die Bezeichnung des Kohlenstoffatoms angehängt, an dem vor der Veresterung die Alkoholgruppe hing ($\alpha, \beta, \gamma, \delta, ...$).
+
+<figure>
+    <img src="./media/gamma-lacton.png">
+    <figcaption>γ-Lacton</figcaption>
+</figure>
+
+<figure>
+    <img src="./media/delta-lacton.png">
+    <figcaption>δ-Lacton</figcaption>
+</figure>
+
+Cyclische Ester können auch aromatische Systeme bilden.
+
+<figure>
+    <img src="./media/cumarin.png">
+    <figcaption>Cumarin</figcaption>
+</figure>
+
+### Reaktionen
+
+Wie Carbonäuren können auch Ester mit Aminen zu Amiden reagieren.
+
+<figure>
+    <img src="./media/ester_amid.png">
+    <figcaption></figcaption>
+</figure>
+
+#### Umesterung
+
+Bei der Umesterung tauscht ein Ester seinen Rest am Sauerstoff mit einem Alkohol.
+
+<figure>
+    <img src="./media/umesterung.png">
+    <figcaption></figcaption>
+</figure>
+
+#### Verseifung
+
+Die Verseifung ist die Hydrolyse eines Esters unter basischen Bedingungen, wobei ein Alkohol und ein Carboxylat entstehen. Eine ähnliche Reaktion kann auch unter sauren Bedingungen ablaufen, allerdings mit einer Carbonsäure statt eines Carboxylats als Produkt. Die Verseifung ist im Gegensatz zur sauren Hydrolyse im letzten Schritt nicht umkehrbar.
+
+<figure>
+    <img src="./media/verseifung.png">
+    <figcaption></figcaption>
+</figure>
+
+#### Reduktion
+
+Ester können mit einem Hydrid-Ion (z.B. von Aluminiumhydrid) zu Alkoholen reduziert werden. Dabei entsteht als Zwischenprodukt ein Aldehyd.
+
+<figure>
+    <img src="./media/ester_reduktion.png">
+    <figcaption></figcaption>
+</figure>
+
+### Neutralfette
+
+Neutralfette sind Triester von Glycerol (Triglyceride) mit drei **Fettsäuren** (unverzweigte aliphatische Monocarbonsäuren mit gerader Kohlenstoffanzahl, gesättigt oder ungesättigt). Sie können durch Verseifung mit z.B. Natriumhydroxid aufgespalten werden, wobei man Glycerol und die Natriumsalze der drei Fettsäuren erhält. Diese sind amphipathisch, haben also ein polares und ein unpolares Ende. Dadurch können sie **Micellen** um unpolare (Schmutz-)Partikel bilden und diese auch in einem polaren Lösungsmittel wie Wasser lösen.
+
+<figure>
+    <img src="./media/neutralfett.png">
+    <figcaption></figcaption>
+</figure>
+
+<figure>
+    <a title="SuperManu, CC BY-SA 3.0 &lt;https://creativecommons.org/licenses/by-sa/3.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Micelle_scheme-en.svg"><img width="256" alt="Micelle scheme-en" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Micelle_scheme-en.svg/512px-Micelle_scheme-en.svg.png"></a>
+    <figcaption>Micelle</figcaption>
+</figure>
+
+## Amide
+
+Carbonsäureamide ähneln den Carbonsäureestern. Anders als bei diesen haben Amide einen Stickstoff als Verbindung zwischen den organischen Resten, wobei der zweite Rest auch ein Wasserstoff sein kann.
+
+<figure>
+    <img src="./media/amid2.png">
+    <figcaption></figcaption>
+</figure>
+
+<table class="gallery-table">
+    <tbody>
+        <tr>
+            <td>
+                <figure>
+                    <img src="./media/acetamid.png">
+                    <figcaption>Acetamid</figcaption>
+                </figure>
+            </td>
+            <td>
+                <figure>
+                    <img src="./media/Benzamid.png">
+                    <figcaption>Benzamid</figcaption>
+                </figure>
+            </td>
+            <td>
+                <figure>
+                    <img src="./media/Diacetamid.png">
+                    <figcaption>Diacetamid</figcaption>
+                </figure>
+            </td>
+            <td>
+                <figure>
+                    <img src="./media/dmf.png">
+                    <figcaption>Dimethylformamid</figcaption>
+                </figure>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+Amide sind bei Raumtemperatur meist fest. Eine Ausnahme ist zum Beispiel Dimethylformamid, welches als Lösungsmittel eingesetzt wird. Sie sind durch Mesomerie stabilisiert und deshalb unreaktiv und schlechte Nucleophile.
+
+<figure>
+    <img src="./media/amid_mesomerie.png">
+    <figcaption></figcaption>
+</figure>
+
+### cyclische Amide (Lactame)
+
+Die Benennung von Lactamen erfolgt analog zu den Lactonen der Ester. Wichtige $\beta$-Lactame sind zum Beispiel Penicilline.
+
+<figure>
+    <img src="./media/penicillin.png">
+    <figcaption>allgemeine Formel der Penicilline</figcaption>
+</figure>
+
+## Amine
+
+Amine bestehen aus einem Stickstoffatom, das an drei organische Reste bzw. Wasserstoffatome gebunden ist. Diese Verbindungen sind generell basisch und durch die negative Partialladung am Stickstoff gut Nucleophile.
+
+<table class="gallery-table">
+    <tbody>
+        <tr>
+            <td>
+                <figure>
+                    <img src="./media/ammoniak.png">
+                    <figcaption>Ammoniak</figcaption>
+                </figure>
+            </td>
+            <td>
+                <figure>
+                    <img src="./media/prim_amin.png">
+                    <figcaption>primäres Amin</figcaption>
+                </figure>
+            </td>
+            <td>
+                <figure>
+                    <img src="./media/sek_amin.png">
+                    <figcaption>sekundäres Amin</figcaption>
+                </figure>
+            </td>
+            <td>
+                <figure>
+                    <img src="./media/tert_amin.png">
+                    <figcaption>tertiäres Amin</figcaption>
+                </figure>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+### Synthese
+
+Amine können aus Ammoniak und einem Halogenalkan synthetisiert werden. Allerdings kann das entstehende primäre Amin wegen seines freien Elektronenpaares weiter mit einem Halogenalkan reagieren, bis ein tertiäres Amin erreicht ist. Deswegen ist diese Art der Synthese nicht selektiv und ungeeignet, um primäre oder sekundäre Amine herzustellen.
+
+<figure>
+    <img src="./media/amin_synthese.png">
+    <figcaption></figcaption>
+</figure>
+
+Bei der **Gabriel-Synthese** reagiert das Halogenalkan nicht mit Ammoniak, sondern mit Kaliumphtalimid. Das erwünschte primäre Amin wird dann mithilfe von Hydrazin abgespalten.
+
+<figure>
+    <img src="./media/gabriel.png">
+    <figcaption></figcaption>
+</figure>
+
+### Reaktionen
+
+Amine können gemeinsam mit Säurehalogeniden, Anhydriden oder Estern Amide bilden.
+
+<figure>
+    <img src="./media/amin_amid.png">
+    <figcaption>Y ist ein Halogenid (Säurehalogenid), Alkoholat (Ester) oder Carboxylat (Anhydrid)</figcaption>
+</figure>
+
+### Imine und Enamine
+
+Durch Addition von primären bzw. sekundären Aminen an Aldehyde oder Ketone können Imine bzw. Enamine gewonnen werden.
+
+<figure>
+    <img src="./media/imin.png">
+    <figcaption>Imin-Synthese mit einem primären Amin</figcaption>
+</figure>
+
+<figure>
+    <img src="./media/enamin.png">
+    <figcaption>Enamin-Synthese mit einem sekundären Amin</figcaption>
+</figure>
+
+### Hofmann-Eliminierung
+
+Mit Iodmethan und der Base von Silber(I)-Oxid können aus bestimmten Aminen Alkene erzeugt werden.
+
+<figure>
+    <img src="./media/hofmann.png">
+    <figcaption></figcaption>
+</figure>
