@@ -10,7 +10,7 @@ Aromatische Kohlenwasserstoffe, oder **Aromaten** sind planare, cyclische und un
 Anders, als man es bei dieser Darstellung erwarten würde, sind die Bindungen nicht verschieden lang, wie es für Doppel- und Einfachbindungen normalerweise der Fall wäre. Stattdessen liegt die Bindungslänge dazwischen. Auch die Standardbildungsenthalpie $\Delta H^0$ für die Hydrierung verhält sich anders, als zu erwarten wäre. Den Unterschied zwischen erwarteter und realer Hydrierungsenthalpie ist die **Resonanzenergie**, die dafür sorgt, dass ein Molekül mit mesomeren Grenzstrukturen stabiler ist, als es ohne die Mesomerie wäre.
 
 <figure>
-    <img src="./media/resonanzenergie.png">
+    <img src="./media/resonanzenergie.png" style="height: 400px">
     <figcaption>Hydrierungsenthalpie von Einfachringen mit Doppelbindungen</figcaption>
 </figure>
 
@@ -55,7 +55,7 @@ Systeme mit $4n$ $\pi$-Elektronen sind **Antiaromaten**. Diese Moleküle sind en
 
 Aromatische Ringe können auch aneinandergefügt (anelliert) werden. Aromatizität ist dann gegeben, wenn im gesamten Molekül $4n+2$ $\pi$-Elektronen vorhanden sind, nicht in jedem Ring.
 
-<table>
+<table class="gallery-table">
     <tbody>
         <tr>
             <td>

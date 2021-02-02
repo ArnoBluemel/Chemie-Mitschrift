@@ -192,17 +192,23 @@ Organyle sind metallorganische (oder allgemein elementorganische) Verbindungen, 
 
 Herstellung aus einem Nitril oder Alkin mit einer Base:
 
-<img src="./media/caa_1.png" style="height:50px"> 
-<img src="./media/caa_2.png" style="height:50px">
+<figure>
+    <img src="./media/caa_1.png" style="height:50px"> 
+    <img src="./media/caa_2.png" style="height:50px">
+</figure>
 
 **Grignard-Bindungen:**
 
 Insertion von Magnesium in ein Halogenalkan:
 
-<img src="./media/grignard.png" style="height:50px">
+<figure>
+    <img src="./media/grignard.png" style="height:50px">
+</figure>
 
 **Lithiumorganyle:**
 
 Substitution eines Halogens an einem Halogenalkan durch Lithium:
 
-<img src="./media/lithiumorganyl.png" style="height:50px">
+<figure>
+    <img src="./media/lithiumorganyl.png" style="height:50px">
+</figure>

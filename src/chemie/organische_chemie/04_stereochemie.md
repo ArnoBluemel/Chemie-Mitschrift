@@ -41,7 +41,7 @@ Einfachbindungen können frei rotiert werden, ohne Bindungen zu brechen. Trotzde
 Am günstigsten ist die Konformation, in der sich die Substituenten 180° (staggered/gestaffelt/anti) gegenüberstehen (bei gleichen Substituenten: 180° = 60° = 300°). Die Stellungen bei 60° bzw. 300° (gauche/windschief) sind ebenfalls stabil, allerdings auf einem höheren Energieniveau als staggered. Die instabilste Konformation ist die bei 0° bzw. 360° (überlappend/ekliptisch).
 
 <figure>
-    <a title="Keministi, CC0, via Wikimedia Commons" href="https://commons.wikimedia.org/w/index.php?curid=72874970"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Butane_conformations_and_relative_energies.svg/1920px-Butane_conformations_and_relative_energies.svg.png"></a>
+    <a title="Keministi, CC0, via Wikimedia Commons" href="https://commons.wikimedia.org/w/index.php?curid=72874970"><img height="300" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Butane_conformations_and_relative_energies.svg/1920px-Butane_conformations_and_relative_energies.svg.png"></a>
     <figcaption>Energieniveaus der Konformationen </br> A: staggered </br> B: gauche </br> C: teilweise verdeckt </br> D: ekliptisch</figcaption>
 </figure>
 
@@ -108,7 +108,7 @@ Ein Molekül mit n Chiralitätszentren kann theoretisch 2<sup>n</sup> Stereoisom
 Wenn durch eine Anordnung von Absolutkonfigurationen eine Symmetrie im Molekül entsteht, dann sind diese beiden Formen keine Enantiomere, sondern **Meso-Formen**. Meso-Formen sind optisch inaktiv.
 
 <figure>
-    <a title="Polimerek, CC BY-SA 3.0, via Wikimedia Commons" href="https://commons.wikimedia.org/w/index.php?curid=50235"><img src="https://upload.wikimedia.org/wikipedia/commons/5/54/R_S_configuration.png"></a>
+    <a title="Polimerek, CC BY-SA 3.0, via Wikimedia Commons" href="https://commons.wikimedia.org/w/index.php?curid=50235"><img height="200" src="https://upload.wikimedia.org/wikipedia/commons/5/54/R_S_configuration.png"></a>
     <figcaption>Absolutkonfiguration (Priorität: A > B > C > D)</figcaption>
 </figure>
 
