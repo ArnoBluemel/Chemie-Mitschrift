@@ -198,3 +198,328 @@ Zucker können auch zu längeren Ketten zusammengehängt werden. Polysaccharide 
 </figure>
 
 ## Aminosäuren
+
+α-Aminosäuren bestehen aus einer Kette von Kohlenstoffatomen mit einer Carboxylgruppe am C1-Atom und einer Aminogruppe am C2-Atom (= α-C-Atom). Außerdem hängt am C2-Atom jeweils eine Seitenkette, die jeder Aminosäure ihre Funktion gibt.
+
+<figure>
+    <img src="./media/alpha_amino.png">
+    <figcaption>allgemeine Struktur von α-Aminosäuren</figcaption>
+</figure>
+
+Für die D/L-Nomenklatur ist im Fall der Aminosäuren die Aminogruppe am C2-Atom verantwortlich. Aminosäuren kommen in der Natur vor allem in der L-Konfiguration vor. Das entspricht (mit Ausnahm von z.B. Cystein) der S-Konfiguration des C2-Atoms. Die kleinste Aminosäure, Glycin, hat als Seitenkette nur einen Wasserstoff, und ist deswegen nicht chiral.
+
+<figure>
+    <img src="./media/glycin_fisher.png">
+    <figcaption>Glycin</figcaption>
+</figure>
+
+<figure>
+    <img src="./media/l-cystein_fisher.png">
+    <figcaption>L-Cystein </br> (Schwefel hat eine höhere Ordnungszahl, als Sauerstoff, deswegen ist die Absolutkonfiguration von C2 R.)</figcaption>
+</figure>
+
+Aminosäuren tragen eine saure Carboxylgruppe und eine basische Aminogruppe, sind also **amphoter**. Welche der Gruppen protoniert bzw. deprotoniert sind, hängt vom pH-Wert ab. Bei hohem pH-Wert sind beide Gruppen protoniert. Umgekehrt sind bei niedrigen pH-Werten beide gruppen deprotoniert. Dazwischen liegt der **isoelektrische Punkt (pI)**. Dieser ist für jede Aminosäure spezifisch. Wenn der pH-Wert gleich pI ist, liegt die Aminosäure als Zwitterion vor, da die Aminogruppe protoniert ist, die Carboxylgruppe aber deprotoniert. Somit ist das Molekül an einem Ende sauer und am anderen basisch.
+
+<figure>
+    <img src="./media/zwitterion.png">
+    <figcaption></figcaption>
+</figure>
+
+### proteinogene Aminosäuren
+
+In den meisten Lebewesen werden vor allem 20 $\alpha$-Aminosäuren in Proteine eingebaut. Diese **kanonischen** Aminosäuren liegen ausnahmslos in L-Form vor.
+
+#### unpolare aliphatische Aminosäuren
+
+Unpolare Aminosäuren finden sich vor allem im Zentrum von Enzymen, da sie vom umgebenden polaren Medium abgestoßen werden.
+
+<table class="gallery-table" style="text-align: center">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th style="width: 10%">3-Buchstabencode</th>
+            <th style="width: 10%">1-Buchstabencode</th>
+            <th>Struktur</th>
+            <th>Besonderheiten</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="vertical-align: middle">Glycin</td>
+            <td style="vertical-align: middle">Gly</td>
+            <td style="vertical-align: middle">G</td>
+            <td>
+                <img src="./media/glycin.png" style="width: 150px">
+            </td>
+            <td style="vertical-align: middle">kein chirales Kohlenstoffatom</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle">L-Alanin</td>
+            <td style="vertical-align: middle">Ala</td>
+            <td style="vertical-align: middle">A</td>
+            <td>
+                <img src="./media/l-alanin.png" style="width: 150px">
+            </td>
+            <td style="vertical-align: middle"></td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle">L-Valin</td>
+            <td style="vertical-align: middle">Val</td>
+            <td style="vertical-align: middle">V</td>
+            <td>
+                <img src="./media/l-valin.png" style="width: 150px">
+            </td>
+            <td style="vertical-align: middle"></td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle">L-Leucin</td>
+            <td style="vertical-align: middle">Leu</td>
+            <td style="vertical-align: middle">L</td>
+            <td>
+                <img src="./media/l-leucin.png" style="width: 150px">
+            </td>
+            <td style="vertical-align: middle"></td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle">L-Isoleucin</td>
+            <td style="vertical-align: middle">Ile</td>
+            <td style="vertical-align: middle">I</td>
+            <td>
+                <img src="./media/l-isoleucin.png" style="width: 150px">
+            </td>
+            <td style="vertical-align: middle">zwei chirale Zentren</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle">L-Methionin</td>
+            <td style="vertical-align: middle">Met</td>
+            <td style="vertical-align: middle">M</td>
+            <td>
+                <img src="./media/l-methionin.png" style="width: 150px">
+            </td>
+            <td style="vertical-align: middle"></td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle">L-Prolin</td>
+            <td style="vertical-align: middle">Pro</td>
+            <td style="vertical-align: middle">P</td>
+            <td>
+                <img src="./media/l-prolin.png" style="width: 150px">
+            </td>
+            <td style="vertical-align: middle"></td>
+        </tr>
+    </tbody>
+</table>
+
+#### polare ungeladene Aminosäuren
+
+Polare Aminosäuren finden sich an der Außenseite von Proteinen und Enzymen.
+
+<table class="gallery-table" style="text-align: center">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th style="width: 10%">3-Buchstabencode</th>
+            <th style="width: 10%">1-Buchstabencode</th>
+            <th>Struktur</th>
+            <th>Besonderheiten</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="vertical-align: middle">L-Serin</td>
+            <td style="vertical-align: middle">Ser</td>
+            <td style="vertical-align: middle">S</td>
+            <td style="vertical-align: middle">
+                <img src="./media/l-serin.png" style="width: 150px">
+            </td>
+            <td style="vertical-align: middle"></td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle">L-Threonin</td>
+            <td style="vertical-align: middle">Thr</td>
+            <td style="vertical-align: middle">T</td>
+            <td style="vertical-align: middle">
+                <img src="./media/l-threonin.png" style="width: 150px">
+            </td>
+            <td style="vertical-align: middle">zwei chirale Zentren</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle">L-Cystein</td>
+            <td style="vertical-align: middle">Cys</td>
+            <td style="vertical-align: middle">C</td>
+            <td style="vertical-align: middle">
+                <img src="./media/l-cystein.png" style="width: 150px">
+            </td>
+            <td style="vertical-align: middle">bildet Disulfidbrücken </br> R-Konfiguration der L-Form</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle">L-Asparagin</td>
+            <td style="vertical-align: middle">Asn</td>
+            <td style="vertical-align: middle">N</td>
+            <td style="vertical-align: middle">
+                <img src="./media/l-asparagin.png" style="width: 150px">
+            </td>
+            <td style="vertical-align: middle"></td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle">L-Glutamin</td>
+            <td style="vertical-align: middle">Gln</td>
+            <td style="vertical-align: middle">Q</td>
+            <td style="vertical-align: middle">
+                <img src="./media/l-glutamin.png" style="width: 150px">
+            </td>
+            <td style="vertical-align: middle"></td>
+        </tr>
+    </tbody>
+</table>
+
+#### aromatische Aminosäuren
+
+Durch ihre $\pi$-Elektronen können aromatische Aminosäuren gut mit Kationen wechselwirken.
+
+<table class="gallery-table" style="text-align: center">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th style="width: 10%">3-Buchstabencode</th>
+            <th style="width: 10%">1-Buchstabencode</th>
+            <th>Struktur</th>
+            <th>Besonderheiten</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="vertical-align: middle; font-size: 94%">L-Phenylalanin</td>
+            <td style="vertical-align: middle">Phe</td>
+            <td style="vertical-align: middle">F</td>
+            <td style="vertical-align: middle">
+                <img src="./media/l-phenylalanin.png" style="width: 150px">
+            </td>
+            <td style="vertical-align: middle"></td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle">L-Tyrosin</td>
+            <td style="vertical-align: middle">Tyr</td>
+            <td style="vertical-align: middle">Y</td>
+            <td style="vertical-align: middle">
+                <img src="./media/l-tyrosin.png" style="width: 150px">
+            </td>
+            <td style="vertical-align: middle">bildet gut Wasserstoffbrücken</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle">L-Tryptophan</td>
+            <td style="vertical-align: middle">Trp</td>
+            <td style="vertical-align: middle">W</td>
+            <td style="vertical-align: middle">
+                <img src="./media/l-tryptophan.png" style="width: 150px">
+            </td>
+            <td style="vertical-align: middle">Die Indolseitenkette ist sehr groß und fungiert oft als "Deckel" von Enzymtaschen.</td>
+        </tr>
+    </tbody>
+</table>
+
+#### geladene Aminosäuren
+
+<table class="gallery-table" style="text-align: center">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th style="width: 10%">3-Buchstabencode</th>
+            <th style="width: 10%">1-Buchstabencode</th>
+            <th>Struktur</th>
+            <th>Besonderheiten</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="vertical-align: middle">L-Lysin</td>
+            <td style="vertical-align: middle">Lys</td>
+            <td style="vertical-align: middle">K</td>
+            <td style="vertical-align: middle">
+                <img src="./media/l-lysin.png" style="width: 150px">
+            </td>
+            <td style="vertical-align: middle">positiv, sehr flexible Seitenkette</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle">L-Histidin</td>
+            <td style="vertical-align: middle">His</td>
+            <td style="vertical-align: middle">H</td>
+            <td style="vertical-align: middle">
+                <img src="./media/l-histidin.png" style="width: 150px">
+            </td>
+            <td style="vertical-align: middle">positiv, kann sauer oder basisch reagieren, stabilisiert Substrate</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle">L-Arginin</td>
+            <td style="vertical-align: middle">Arg</td>
+            <td style="vertical-align: middle">R</td>
+            <td style="vertical-align: middle">
+                <img src="./media/l-arginin.png" style="width: 150px">
+            </td>
+            <td style="vertical-align: middle">positiv</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle; font-size: 94%">L-Asparaginsäure </br> L-Aspartat</td>
+            <td style="vertical-align: middle">Asp</td>
+            <td style="vertical-align: middle">D</td>
+            <td style="vertical-align: middle">
+                <img src="./media/l-asparaginsäure.png" style="width: 150px">
+            </td>
+            <td style="vertical-align: middle">Aspartat ist die deprotonierte Form</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle; font-size: 94%">L-Glutaminsäure </br> L-Glutamat</td>
+            <td style="vertical-align: middle">Glu</td>
+            <td style="vertical-align: middle">E</td>
+            <td style="vertical-align: middle">
+                <img src="./media/l-glutaminsäure.png" style="width: 150px">
+            </td>
+            <td style="vertical-align: middle">Glutamat analog zu Aspartat</td>
+        </tr>
+    </tbody>
+</table>
+
+### Synthese
+
+Ein Beispiel für die Herstellung von Aminosäuren ist die Strecker-Synthese. Dabei reagiert ein Aldehyd mit einem Ammoniak-Molekül zu einem Imin. Diese reagiert mit Cyanid und Wasser weiter zur Aminosäure. Das Ergebnis ist eine racemische $\alpha$-Aminosäure.
+
+<figure>
+    <img src="./media/strecker.png">
+    <figcaption></figcaption>
+</figure>
+
+### Peptide
+
+Zwei Aminosäuren können zwischen der Carboxylgruppe und der Aminogruppe der beiden Partner eine **Peptidbindung** bilden. Formal erfolgt diese Reaktion unter Abspaltung von Wasser.
+
+<figure>
+    <img src="./media/peptidbindung.png">
+    <figcaption></figcaption>
+</figure>
+
+Real ist allerdings der Kohlenstoff der Carboxylgruppe ein schlechtes Elektrophil. Deshalb muss das Molekül erst durch z.B. Dicyclohexylcarbodiimid aktiviert werden. Bei dieser Reaktion entsteht als Zwischenprodukt ein Aktivester.
+
+<figure>
+    <img src="./media/dipeptid.png">
+    <figcaption></figcaption>
+</figure>
+
+Diese Reaktion hat aber immernoch das Problem, das sie sehr unspezifisch ist. Da kein Mechanismus kontrolliert, in welcher Reihefolge die beiden Aminosäuren verknüpft , oder ob zwei gleiche aneinanderghängt werden, macht das erwünschte Produkt nur 25% des Ergebnisses aus.
+
+#### Festphasensynthese nach Merrifield
+
+Bei der Festphasensynthese hängt ein **Linker** an einem festen Polymerkügelchen, das in einer Lösung schwimmt. Von diesem Linker wird ein Halogenid abgespalten, wodurch eine mit einer Schutzgruppe versehene Aminosäure angehängt werden kann. Danach werden die restlichen Aminosäuremoleküle aus der Lösung entfernt und die Schutzgruppe abgespalten. Dann wird die nächste Aminosäure, wieder mit Schutzgruppe, beigegeben und mit der gleichen Reaktion wie oben angehängt. Dieser Prozess wird für eine Aminosäure nach der anderen wiederholt. Da die Reinigung zwischen den einzelnen Schritten durch einfache Filtration erfolgt, lässt sich der Vorgang gut automatisieren. Außerdem hat die Festphasensynthese den Vorteil, dass sie durch die Schutzgruppen hoch selektiv ist, und somit ein bestimmtes Produkt ohne Verluste herstellen lässt.
+
+<figure>
+    <img src="./media/merrifield.png">
+    <figcaption></figcaption>
+</figure>
+
+#### Proteine
+
+Proteine sind **Polypeptide**. Es gibt keine genaue Grenze, ab wann man von einem Protein spricht, aber die meisten Proteine liegen in einem Bereich von wenigen hundert Aminosäuren. Die **Primärstruktur** gibt die Abfolge der Aminosäuren an. Die **Sekundärstruktur** wird durch Wasserstoffbrückenbindungen des Peptidrückgrats (backbone) bestimmt, und nicht durch die Seitenketten. Zu den wichtigsten Phänomenen auf dieser Ebene gehören $\alpha$-Helices und $\beta$-Faltblätter. Die **Tertiärstruktur** ist die räumliche Anordnung des gesamten Proteins, bestimmt durch verschiedene Interaktionen der Seitenketten.
+
+<figure>
+    <img src="./media/tertiär.png">
+    <figcaption>Interaktionen der Tertiärstruktur</figcaption>
+</figure>
