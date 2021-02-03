@@ -61,7 +61,7 @@
     Reaktion 1. Ordnung: $v = k(T) * c_A$ </br>
     Reaktion 2. Ordnung: $v = k(T) * c_A * c_B$ </br>
     Reaktion 3. Ordnung: $v = k(T) * c_A^2 * c_B$ </br>
-**Stoffmengenkonzentration bei einer Reaktion 1. Ordnung:** $c(t) = c(0) * e^{-k(T) * t} = c(0) * e^{\frac t \lambda}$
+**Stoffmengenkonzentration bei einer Reaktion 1. Ordnung:** $c(t) = c(0) * e^{-k(T) * t} = c(0) * e^{-\frac t \lambda}$
 
 **Gleichgewichtskonstante:** $K = \frac {c_C^c * c_D^d} {c_A^a * c_B^b}$  </br>
 **Gleichgewicht einer mehrstufigen Reaktion:** $K = \Pi K_i$
