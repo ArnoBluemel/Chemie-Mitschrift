@@ -284,7 +284,7 @@ Am absoluten Nullpunkt (0K) herrscht mit S = 0 die höchste Ordnung. Dieser Zust
 
 ### Gibbs-Helmholtz-Gleichung
 
-Die Gibbssche freie Enthalpie führt Enhalpie und Entropie in einer Größe zusammen. Mit ihr kann man sagen, ob eine chemische Reaktion exergon (freiwillig) oder endergon (unfreiwillig) ablaufen kann. Auch wenn eine Reaktion thermodynamisch freiwillig ist, kann sie kinetisch gehemmt sein, indem eine Aktivierungsenergie notwendig ist.
+Die Gibbssche freie Enthalpie führt Enhalpie und Entropie in einer Größe zusammen. Mit ihr kann man sagen, ob eine chemische Reaktion exergon (freiwillig, $\Delta$G negativ) oder endergon (unfreiwillig, $\Delta$G positiv) ablaufen kann. Auch wenn eine Reaktion thermodynamisch freiwillig ist, kann sie kinetisch gehemmt sein, indem eine Aktivierungsenergie notwendig ist.
 
 <figure>
     <Formulae> \Delta G = \Delta H - T * \Delta S </Formulae>

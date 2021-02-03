@@ -50,6 +50,8 @@
 **Entropie:** $\Delta S = \frac { \Delta Q} T$
 
 **Gibbs-Helmholtz-Gleichung (freie Enthalpie):** $\Delta G = \Delta H - T * \Delta S$ </br>
+    $\Delta G < 0 => exergon/freiwillig$ </br>
+    $\Delta G > 0 => endergon/unfreiwillig$ </br>
 **freie Standardbildungsenthalpie:** $\Delta G^0 = \Delta G^0_{Produkte} - \Delta G^0_{Reaktanten}$
 
 **Arrhenius-Gleichung:** $k(T) = A * e ^ {- \frac {E_A} {R * T}}$ </br>
