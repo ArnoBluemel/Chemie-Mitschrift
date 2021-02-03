@@ -72,7 +72,9 @@
     $\Delta G^0 = -R * T * ln(K)$
 
 **Lösungsenthalpie:** $Lösungsenthalpie = Gitterenthalpie + Solvatationsenthalpie$ </br>
-**Löslichkeitsprodukt:** $K_L = c_{A^+}^2$ </br>
+**Löslichkeitsprodukt:** </br>
+    Salz der Form AB: $K_L = c_{A^+}^2$ </br>
+    allgemein (A<sub>x</sub>B<sub>y</sub>): $K_L = c_{A^+}^x * c_{B^-}^y$ </br>
 **Löslichkeit:** $L = \sqrt [a + b] { \frac {K_L} {a^a * b^b}}$
 
 **Ionenprodukt des Wassers:** $K_W = c_{H^+}^2$ </br>
