@@ -49,9 +49,11 @@ Für eine Reaktion erster Ordnung gilt
 <Formulae> v = k(T) *  c_A </Formulae>
 
 Da die Einheit der Stoffmengenkonzentration $1 \frac {mol} {L}$ ist, ist die Einheit der Geschwindigkeitskonstante $\frac {1} {s}$.
-Bei einer Reaktion erster Ordnung kann zudem die Konzentration von A zu einem beliebigen Zeitpunkt einfach berechnet werden, sofern die Anfangskonzentration und die Geschwindigkeitskonstante bekannt sind. Die Geschwindigkeitskonstante entspricht dem Kehrwert der Halbwertszeit des Reaktanten ($k = \lambda ^{-1}$).
+Bei einer Reaktion erster Ordnung kann zudem die Konzentration von A zu einem beliebigen Zeitpunkt einfach berechnet werden, sofern die Anfangskonzentration und die Geschwindigkeitskonstante bekannt sind.
 
 <Formulae> c_A(t) = c_A(0) * e ^ {-k(T) * t} </Formulae>
+
+(Berechnung der Geschwindigkeitskonstante k bei gegebener Halbwertszeit $\lambda$ (oder umgekehrt): $e^{-k * \lambda } = 0,5$, da nach einer Zeit $t = \lambda$ noch genau die Hälfte des Ausgangsstoffes vorhanden ist.)
 
 Reaktionen zweiter Ordnung sind zum Beispiel Reaktionen der Form
 
