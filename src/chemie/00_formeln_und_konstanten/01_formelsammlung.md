@@ -92,7 +92,8 @@
 **Faraday-Gesetz:** $m = \frac {M * Q} {z * F}$
 
 **elektrochemische Gleichgewichtsbedingung:** $\Delta E = \frac { \Delta G} {n * F}$ </br>
-**Nernst-Gleichung:** $\Delta E = \Delta E^0 + \frac {R * T} {n * F} * ln(Q)$
+**Nernst-Gleichung:** $\Delta E = \Delta E^0 + \frac {R * T} {n * F} * ln(Q)$ </br>
+    Reaktionsquotient: $Q = \frac {c_{Ox}} {c_{Red}}$
 
 ## Organische Chemie
 
