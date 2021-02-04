@@ -139,6 +139,8 @@ Puffer im Blut sind v.a. proteinbasiert. Aber auch der Kohlensäure/Bicarbonat-P
 @stefnotch
 -->
 
+<figure>
+
 Säure|Summenformel|pK<sub>S</sub>
 :-----:|:-----:|:-----:
 Salzsäure|$HCl$|-6
@@ -205,6 +207,8 @@ Phosphat|$PO_4^{3-}$
 Sulfit|$SO_3^{2-}$
 Sulfat|$SO_4^{2-}$
 Ammonium|$NH_4^+$
+
+</figure>
 
 <!--
 Thanks! (:
