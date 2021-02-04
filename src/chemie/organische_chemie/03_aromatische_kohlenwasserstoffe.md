@@ -230,3 +230,76 @@ Wenn ein Substituent in der Lage ist, über freie Elektronenpaare oder ungesätt
     <img src="./media/mesomerer_effekt.png">
     <figcaption>mesomerer Effekt</figcaption>
 </figure>
+
+Wenn ein Substituent +I *und* +M wirkt, findet eine Substituierung bevorzugt meta zu diesem statt.
+
+</figure>
+    <table style="width: 900px;
+   position: relative;
+   top: 50%;
+   left: 50%;
+   margin-left: -450px">
+        <tbody>
+            <tr style="background: #cccccc">
+                <th>Erstsubstituent</th>
+                <th>M-Effekt</th>
+                <th>I-Effekt</th>
+                <th>Dirigierender Effekt</th>
+                <th>Aktivierender Effekt</th>
+            </tr>
+            <tr style="background: #ff3f3f">
+                <td>–O<sup>−</sup></td>
+                <td><b>+</b></td>
+                <td><b>+</b></td>
+                <td><i>ortho</i> / <i>para</i></td>
+                <td>aktivierend stark</td>
+            </tr>
+            <tr style="background: #ffa500">
+                <td>–OH / –NH<sub>2</sub> / –NR<sub>2</sub></td>
+                <td><b>+</b></td>
+                <td><b>−</b></td>
+                <td><i>ortho</i> / <i>para</i></td>
+                <td>aktivierend stark</td>
+            </tr>
+            <tr>
+                <td>–OCH<sub>3</sub> / –OR / –NHCOR</td>
+                <td><b>+</b></td>
+                <td><b>−</b></td>
+                <td><i>ortho</i> / <i>para</i></td>
+                <td>aktivierend mittel</td>
+            </tr>
+            <tr style="background: #ffd700">
+                <td>Alkylrest</td>
+                <td>n/a</td>
+                <td><b>+</b></td>
+                <td><i>ortho</i> / <i>para</i></td>
+                <td>aktivierend schwach</td>
+            </tr>
+            <tr style="background: #adff2f">
+                <td>–F / –Cl / –Br / –I</td>
+                <td><b>+</b></td>
+                <td><b>−</b></td>
+                <td><i>ortho</i> / <i>para</i></td>
+                <td>desaktivierend schwach</td>
+            </tr>
+            <tr style="background: #40e0d0">
+                <td>–CN / –COOH / –COOR / –COH / –COR</td>
+                <td><b>−</b></td>
+                <td><b>−</b></td>
+                <td><i>meta</i></td>
+                <td>desaktivierend mittel</td>
+            </tr>
+            <tr style="background: #00ffff">
+                <td>
+                    –NO<sub>2</sub> / –NR<sub>3</sub><sup>+</sup> / –CF<sub>3</sub> /
+                    –CCl<sub>3</sub>
+                </td>
+                <td><b>−</b> (nur –NO<sub>2</sub>)</td>
+                <td><b>−</b></td>
+                <td><i>meta</i></td>
+                <td>desaktivierend stark</td>
+            </tr>
+        </tbody>
+    </table>
+    <figcaption style="text-align:center"> Effekte verschiedener Substituenten (<a href="https://de.wikipedia.org/wiki/Elektrophile_aromatische_Substitution#Dirigierende_Wirkung">Wikipedia</a>)</figcaption>
+</figure>

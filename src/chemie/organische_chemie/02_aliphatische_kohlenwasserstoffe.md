@@ -237,6 +237,11 @@ Alkine sind leicht deprotonierbar und haben deswegen eine relativ hohe Acidität
 Eine durch beispielsweise Pd/C (Palladium auf Kohlenstoff) katalysierte Hydrierung eines Alkins zu einem Alken würde sofort zu einem Alkan weiter hydrieren. Um das zu verhindern, werden **Lindlar-Katalysatoren** verwendet, die so abgeschwächt sind, dass die katalytische Wirkung für die Hydrierung des Alkens nicht ausreicht. Bei solchen Reaktionen entstehen cis-Alkene.
 
 <figure>
+    <img src="./media/lindlar.png">
+    <figcaption>Hydrierung eines Alkins mit und ohne Lindlar-Katalysator</figcaption>
+</figure>
+
+<figure>
     <a title="Smokefoot, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:PhC2HH2.png"><img width="512" alt="PhC2HH2" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/PhC2HH2.png/512px-PhC2HH2.png"></a>
     <figcaption>Hydrierung von Phenylacetylen zu Styrol durch einen Lindlar-Katalysator</figcaption>
 </figure>
