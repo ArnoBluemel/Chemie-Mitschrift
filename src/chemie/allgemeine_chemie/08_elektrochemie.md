@@ -158,7 +158,7 @@ Aus der molaren Masse M eines Ions, dem Betrag z seiner Ionenladung, der gesamte
 
 <figure>
     <Formulae> \Delta E = \frac {\Delta G} {n * F} </Formulae>
-    <figcaption>elektrochemische Gleichgewichtsbedingung </br> ΔE . . . Zellspannung (= EMF) </br> n . . . Stoffmenge der Elektronen (in mol)</figcaption>
+    <figcaption>elektrochemische Gleichgewichtsbedingung </br> ΔE . . . Zellspannung (= EMF) </br> n (oder z) . . . Zahl der Elektronen, die bei der Redox-Reaktion übertragen werden</figcaption>
 </figure>
 
 Ob eine elektrochemische Zelle galvanisch oder elektrolytisch ist, hängt neben der freien Enthalpie (Freiwilligkeit der Reaktion) auch von der angelegten elektrischen Spannung ab. Wenn der Term $\Delta G + n * F * \Delta E$ kleiner als 0 ist, arbeitet die Zelle galvanisch. Bei einem Wert größer 0 liegt eine elektrolytische Zelle vor. Durch Anlegen einer Spannung kann also der Prozess einer galvanischen Zelle umgekehrt werden (z.B. Aufladen eines Akkus).

@@ -82,8 +82,10 @@
 **pOH-Wert:** $pOH = -log(c_{OH^-})$ </br>
 **Säuredissoziationskonstante:** $K_S = \frac {c_{H_3O^+} * C_{A^-}} {c_HA}$ </br>
 **pK<sub>S</sub>-Wert:** $pK_S = -log(K_S)$ </br>
+**pH-Wert einer schwachen Säure:** $pH = \frac {pK_S - log(c_{HA})} 2$ </br>
 **Basendissoziationskonstante:** $K_B = \frac {c_{HB^+} * C_{OH^-}} {c_B}$ </br>
 **pK<sub>B</sub>-Wert:** $pK_B = -log(K_B)$ </br>
+**pH-Wert einer schwachen Base:** $pH = 14 - \frac {pK_B - log(c_B)} 2$
 
 **Henderson-Hasselbach-Gleichung:** $pH = pK_S + log(\frac {c_{A^-}} {c_{HA}})$
 
