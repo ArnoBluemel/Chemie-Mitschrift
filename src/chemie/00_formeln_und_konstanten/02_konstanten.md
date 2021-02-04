@@ -27,10 +27,12 @@
 
 ## Sonstige Konstanten
 
-**Avogadro-Zahl:** $N_A = 6,02214 * 10^{23} mol^-1$
-
 **Planck-Konstante:** $h = 6,626 * 10^{-34} \frac J s$
 
+**Avogadro-Zahl:** $N_A = 6,022 * 10^{23} mol^-1$
+
 **Boltzmann-Konstante:** $k_B = 1,38 * 10^{-23} \frac J K$
+
+**universelle Gaskonstante:** $R = N_A * k_B = 8,31 \frac J {K * mol}$
 
 **Faraday-Konstante:** $F = 96485 \frac C {mol}$
