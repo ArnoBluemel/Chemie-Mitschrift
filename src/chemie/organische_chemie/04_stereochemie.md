@@ -54,7 +54,7 @@ Durch die entgegengesetzten Wirkungen der durch die Tendenz zum Tetraeder erzeug
     <figcaption>Konformationen von Cyclohexan</figcaption>
 </figure>
 
-Durch den Vorgang der **Ringinversion** kann z.B. Cyclohexan von einer Sesselkonfiguration in eine andere wechseln. Wenn an einem Kohlenstoffatom ein Substituent hängt, wird dieser dabei von der **axial-** in die **äquatorial-Position** gebracht. Ein Substituent interagiert in der axialen Stellung über 1,3-diaxiale Wechselwirkungen mit axialen Wasserstoff-Atomen, was diese Konformation energetisch ungünstiger macht. Dementsprechend wird die Konformation bevorzugt, in der Substituenten nach Möglichkeit äquatorial stehen.
+Durch den Vorgang der **Ringinversion** kann z.B. Cyclohexan von einer Sesselkonfiguration in eine andere wechseln. Wenn an einem Kohlenstoffatom ein Substituent hängt, wird dieser dabei von der **axial-** in die **äquatorial-Position** gebracht. Ein Substituent interagiert in der axialen Stellung über 1,3-diaxiale Wechselwirkungen mit axialen Wasserstoff-Atomen oder anderen Substituenten, was diese Konformation energetisch ungünstiger macht. Dementsprechend wird die Konformation bevorzugt, in der Substituenten nach Möglichkeit äquatorial stehen.
 
 Wenn ein Ring zwei Substituenten hat, können diese in die gleiche Richtung oder in entgegengesetzte Richtungen zeigen. Es kommt also zu einer cis/trans-Isomerie.
 
