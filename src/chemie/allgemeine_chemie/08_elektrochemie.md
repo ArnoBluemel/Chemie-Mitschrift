@@ -171,3 +171,8 @@ An einer Elektrode entsteht durch den entsprechenden Elektrodenprozess ein **Ele
     <Formulae> \Delta E = \Delta E^0 + \frac {R * T} {n * F} * ln(Q) </Formulae>
     <figcaption>Nernst-Gleichung </br> Q . . . Reaktionquotient (Reaktant/Produkt)</figcaption>
 </figure>
+
+<figure>
+    <Formulae> Q = \frac {c_{Ox}} {c_{Red}} </Formulae>
+    <figcaption></figcaption>
+</figure>
