@@ -133,7 +133,11 @@ Der Pufferbereich liegt ca. bei $pH = pK_S \pm 1$, also zwischen einem Verhältn
 
 Puffer im Blut sind v.a. proteinbasiert. Aber auch der Kohlensäure/Bicarbonat-Puffer spielt eine wichtige Rolle, weil seine Reaktionsprodukte schnell über die Atmung und den Urin ausgeschieden werden können.
 
-## Wichtige Säuren
+## Wichtige Säuren & Ionen
+
+<!--
+@stefnotch
+-->
 
 Säure|Summenformel|pK<sub>S</sub>
 :-----:|:-----:|:-----:
@@ -158,3 +162,50 @@ Benzoesäure|$C_6H_5COOH$|4,2
 Kohlensäure|$H_2CO_3$|3,6; 10,3
 Bromwasserstoff|$HBr$|-8,9
 Iodwasserstoff|$HI$|-10
+
+Ion|Summenformel
+:---:|:---:
+Bromid|$Br^-$
+Chlorid|$Cl^-$
+Iodid|$I^-$
+Flourid|$F^-$
+Hydrid|$^-$
+Oxid|$O^{2-}$
+Sulfid|$S^{2-}$
+Silber-Ion|$Ag^+$
+Barium-Ion|$Ba^{2+}$
+Kupfer(I)-Ion|$Cu^+$
+Kupfer(II)-Ion|$Cu^{2+}$
+Cobalt(II)-Ion|$Co^{2+}$
+Cobalt(III)-Ion|$Co^{3+}$
+Nickel(III)-Ion|$Ni^{3+}$
+Acetat|$CH_3COO^-$
+Cyanid|$CN^-$
+Carbonat|$CO_3^{2-}$
+Hypochlorit|$ClO^-$
+Chlorat|$ClO_3^-$
+Perchlorat|$ClO_4^-$
+Dichromat|$Cr_2O_7^{2-}$
+Formiat|$COO^-$
+Azid|$N_3^-$
+Nitrit|$NO_2^-$
+Nitrat|$NO_3^-$
+Peroxid|$O_2^{2-}$
+Thiosulfat|$S_2O_3^{2-}$
+Hydrogencarbonat|$HCO_3^-$
+Hydrogenphosphat|$HPO_4^{2-}$
+Dihydrogenphosphat|$H_2PO_4^-$
+Hydrogensulfid|$HS^-$
+Hydrogensulfit|$HSO_3^-$
+Hydrogensulfat|$HSO_4^-$
+Iodat|$IO_3^-$
+Permanganat|$MnO_4^-$
+Hydroxid|$OH^-$
+Phosphat|$PO_4^{3-}$
+Sulfit|$SO_3^{2-}$
+Sulfat|$SO_4^{2-}$
+Ammonium|$NH_4^+$
+
+<!--
+Thanks! (:
+-->

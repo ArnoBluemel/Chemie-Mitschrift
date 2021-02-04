@@ -70,7 +70,7 @@ Ether bestehen aus zwei Alkylen, die über einen Sauerstoff verbunden sind. Ethe
             </td>
             <td>
                 <figure>
-                    <img src="./media/1-ethoxyethane-1-peroxol.png">
+                    <img src="./media/1-ethoxyethan-1-peroxol.png">
                     <figcaption>1-Ethoxyethan-1-peroxol</figcaption>
                 </figure>
             </td>
@@ -357,7 +357,7 @@ Ein dritter Weg ist die Hydrolyse von Nitrilen unter sauren oder basischen Bedin
 Carbonsäurederivate entstehen formal durch Ersetzen der Hydroxygruppe durch ein Nucleophil. Dadurch entstehen Säurehalogenide, Anhydride, Ester oder Amide. Säurehalogenide und Anhydride haben durch die Elektronegativitätsdifferenz eine positive Partialladung am Kohlenstoffatom der Carboxylgruppe, weshalb sie sehr reaktiv sind. Ester und Amide sind dagegen ähnlich wie Carbonäuren durch Mesomerie stabilisiert und dadurch eher reaktionsträge.
 
 <figure>
-    <Formulae> Säurechlorid > Anhydrid > Ester > Carbonsäure > Amid </Formulae>
+    <Formulae> Säurechlorid > Anhydrid > Ester > Carbonsäure > Amid > Carboxylat </Formulae>
     <figcaption>Reaktivitäten der Carbonsäurederivate</figcaption>
 </figure>
 
