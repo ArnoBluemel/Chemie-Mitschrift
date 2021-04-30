@@ -15,12 +15,12 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "@maginapp/vuepress-plugin-katex": "^1.0.7",
+    "@maginapp/vuepress-plugin-katex": "^1.0.11",
     "gh-pages": "^3.1.0",
-    "vuepress": "^1.5.3",
-    "vuepress-bar": "^0.3.2"
+    "vuepress": "^1.8.2",
+    "vuepress-bar": "^0.3.6"
   },
   "dependencies": {
-    "katex": "^0.11.1"
+    "katex": "^0.13.3"
   }
 }
